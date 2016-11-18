@@ -1,6 +1,5 @@
-# 2016fallcp_scrum1
-2016fallcp 課程中, 用戶 scrum1  的個人倉儲
+# cpa_w10
 
-https://scrum-1.github.io/2016fallcp_hw
+http://s40523123.github.io/cpa_w10
 
-https://scrum-1.github.io/2016fallcp_hw/blog
+http://s40523123.github.io/cpa_w10/blog
