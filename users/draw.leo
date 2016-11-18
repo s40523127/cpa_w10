@@ -184,330 +184,330 @@
 <v t="yen.20161105200154.1"><vh>@edit agroup.txt</vh></v>
 <v t="yen.20161105200234.1"><vh>@edit bgroup.txt</vh></v>
 </v>
-<v t="leo.20161118175522.2" a="E"><vh>Recovered Nodes</vh>
-<v t="leo.20161118175522.3"><vh>Recovered node "head" from @clean index.html</vh>
-<v t="leo.20161118175522.4"><vh>old:head</vh></v>
-<v t="leo.20161118175522.5"><vh>new:head</vh></v>
-</v>
-<v t="leo.20161118175522.6"><vh>Recovered node "body" from @clean index.html</vh>
-<v t="leo.20161118175522.7"><vh>old:body</vh></v>
-<v t="leo.20161118175522.8"><vh>new:body</vh></v>
-</v>
-<v t="leo.20161118175522.9"><vh>Recovered node "reveal div" from @clean index.html</vh>
-<v t="leo.20161118175522.10"><vh>old:reveal div</vh></v>
-<v t="leo.20161118175522.11"><vh>new:reveal div</vh></v>
-</v>
-<v t="leo.20161118175522.12"><vh>Recovered node "slides div" from @clean index.html</vh>
-<v t="leo.20161118175522.13"><vh>old:slides div</vh></v>
-<v t="leo.20161118175522.14"><vh>new:slides div</vh></v>
-</v>
-<v t="leo.20161118175522.15"><vh>Recovered node "封面投影片" from @clean index.html</vh>
-<v t="leo.20161118175522.16"><vh>old:封面投影片</vh></v>
-<v t="leo.20161118175522.17"><vh>new:封面投影片</vh></v>
-</v>
-<v t="leo.20161118175522.18"><vh>Recovered node "封面投影片內容" from @clean index.html</vh>
-<v t="leo.20161118175522.19"><vh>old:封面投影片內容</vh></v>
-<v t="leo.20161118175522.20"><vh>new:封面投影片內容</vh></v>
-</v>
-<v t="leo.20161118175522.21"><vh>Recovered node "快捷鍵" from @clean index.html</vh>
-<v t="leo.20161118175522.22"><vh>old:快捷鍵</vh></v>
-<v t="leo.20161118175522.23"><vh>new:快捷鍵</vh></v>
-</v>
-<v t="leo.20161118175522.24"><vh>Recovered node "投影片快捷鍵" from @clean index.html</vh>
-<v t="leo.20161118175522.25"><vh>old:投影片快捷鍵</vh></v>
-<v t="leo.20161118175522.26"><vh>new:投影片快捷鍵</vh></v>
-</v>
-<v t="leo.20161118175522.27"><vh>Recovered node "三大主題教學" from @clean index.html</vh>
-<v t="leo.20161118175522.28"><vh>old:三大主題教學</vh></v>
-<v t="leo.20161118175522.29"><vh>new:三大主題教學</vh></v>
-</v>
-<v t="leo.20161118175522.30"><vh>Recovered node "主題教學" from @clean index.html</vh>
-<v t="leo.20161118175522.31"><vh>old:主題教學</vh></v>
-<v t="leo.20161118175522.32"><vh>new:主題教學</vh></v>
-</v>
-<v t="leo.20161118175522.33"><vh>Recovered node "計算機程式在教什麼?" from @clean index.html</vh>
-<v t="leo.20161118175522.34"><vh>old:計算機程式在教什麼?</vh></v>
-<v t="leo.20161118175522.35"><vh>new:計算機程式在教什麼?</vh></v>
-</v>
-<v t="leo.20161118175522.36"><vh>Recovered node "主題教學內容" from @clean index.html</vh>
-<v t="leo.20161118175522.37"><vh>old:主題教學內容</vh></v>
-<v t="leo.20161118175522.38"><vh>new:主題教學內容</vh></v>
-</v>
-<v t="leo.20161118175522.39"><vh>Recovered node "計算機程式在教什麼?" from @clean index.html</vh>
-<v t="leo.20161118175522.40"><vh>old:計算機程式在教什麼?</vh></v>
-<v t="leo.20161118175522.41"><vh>new:計算機程式在教什麼?</vh></v>
-</v>
-<v t="leo.20161118175522.42"><vh>Recovered node "相關課程" from @clean index.html</vh>
-<v t="leo.20161118175522.43"><vh>old:相關課程</vh></v>
-<v t="leo.20161118175522.44"><vh>new:相關課程</vh></v>
-</v>
-<v t="leo.20161118175522.45"><vh>Recovered node "計算機程式系列課程" from @clean index.html</vh>
-<v t="leo.20161118175522.46"><vh>old:計算機程式系列課程</vh></v>
-<v t="leo.20161118175522.47"><vh>new:計算機程式系列課程</vh></v>
-</v>
-<v t="leo.20161118175522.48"><vh>Recovered node "創造力" from @clean index.html</vh>
-<v t="leo.20161118175522.49"><vh>old:創造力</vh></v>
-<v t="leo.20161118175522.50"><vh>new:創造力</vh></v>
-</v>
-<v t="leo.20161118175522.51"><vh>Recovered node "何謂創造力?" from @clean index.html</vh>
-<v t="leo.20161118175522.52"><vh>old:何謂創造力?</vh></v>
-<v t="leo.20161118175522.53"><vh>new:何謂創造力?</vh></v>
-</v>
-<v t="leo.20161118175522.54"><vh>Recovered node "創造力" from @clean index.html</vh>
-<v t="leo.20161118175522.55"><vh>old:創造力</vh></v>
-<v t="leo.20161118175522.56"><vh>new:創造力</vh></v>
-</v>
-<v t="leo.20161118175522.57"><vh>Recovered node "何謂創造力?" from @clean index.html</vh>
-<v t="leo.20161118175522.58"><vh>old:何謂創造力?</vh></v>
-<v t="leo.20161118175522.59"><vh>new:何謂創造力?</vh></v>
-</v>
-<v t="leo.20161118175522.60"><vh>Recovered node "所謂自學" from @clean index.html</vh>
-<v t="leo.20161118175522.61"><vh>old:所謂自學</vh></v>
-<v t="leo.20161118175522.62"><vh>new:所謂自學</vh></v>
-</v>
-<v t="leo.20161118175522.63"><vh>Recovered node "自學的訓練" from @clean index.html</vh>
-<v t="leo.20161118175522.64"><vh>old:自學的訓練</vh></v>
-<v t="leo.20161118175522.65"><vh>new:自學的訓練</vh></v>
-</v>
-<v t="leo.20161118175522.66"><vh>Recovered node "執行力" from @clean index.html</vh>
-<v t="leo.20161118175522.67"><vh>old:執行力</vh></v>
-<v t="leo.20161118175522.68"><vh>new:執行力</vh></v>
-</v>
-<v t="leo.20161118175522.69"><vh>Recovered node "高效執行力" from @clean index.html</vh>
-<v t="leo.20161118175522.70"><vh>old:高效執行力</vh></v>
-<v t="leo.20161118175522.71"><vh>new:高效執行力</vh></v>
-</v>
-<v t="leo.20161118175522.72"><vh>Recovered node "CP 課程倉儲" from @clean index.html</vh>
-<v t="leo.20161118175522.73"><vh>old:CP 課程倉儲</vh></v>
-<v t="leo.20161118175522.74"><vh>new:CP 課程倉儲</vh></v>
-</v>
-<v t="leo.20161118175522.75"><vh>Recovered node "課程時段與規劃" from @clean index.html</vh>
-<v t="leo.20161118175522.76"><vh>old:課程時段與規劃</vh></v>
-<v t="leo.20161118175522.77"><vh>new:課程時段與規劃</vh></v>
-</v>
-<v t="leo.20161118175522.78"><vh>Recovered node "規劃、Wiki 與網誌" from @clean index.html</vh>
-<v t="leo.20161118175522.79"><vh>old:規劃、Wiki 與網誌</vh></v>
-<v t="leo.20161118175522.80"><vh>new:規劃、Wiki 與網誌</vh></v>
+<v t="leo.20161118180529.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20161118180529.3"><vh>Recovered node "head" from @clean index.html</vh>
+<v t="leo.20161118180529.4"><vh>old:head</vh></v>
+<v t="leo.20161118180529.5"><vh>new:head</vh></v>
+</v>
+<v t="leo.20161118180529.6"><vh>Recovered node "body" from @clean index.html</vh>
+<v t="leo.20161118180529.7"><vh>old:body</vh></v>
+<v t="leo.20161118180529.8"><vh>new:body</vh></v>
+</v>
+<v t="leo.20161118180529.9"><vh>Recovered node "reveal div" from @clean index.html</vh>
+<v t="leo.20161118180529.10"><vh>old:reveal div</vh></v>
+<v t="leo.20161118180529.11"><vh>new:reveal div</vh></v>
+</v>
+<v t="leo.20161118180529.12"><vh>Recovered node "slides div" from @clean index.html</vh>
+<v t="leo.20161118180529.13"><vh>old:slides div</vh></v>
+<v t="leo.20161118180529.14"><vh>new:slides div</vh></v>
+</v>
+<v t="leo.20161118180529.15"><vh>Recovered node "封面投影片" from @clean index.html</vh>
+<v t="leo.20161118180529.16"><vh>old:封面投影片</vh></v>
+<v t="leo.20161118180529.17"><vh>new:封面投影片</vh></v>
+</v>
+<v t="leo.20161118180529.18"><vh>Recovered node "封面投影片內容" from @clean index.html</vh>
+<v t="leo.20161118180529.19"><vh>old:封面投影片內容</vh></v>
+<v t="leo.20161118180529.20"><vh>new:封面投影片內容</vh></v>
+</v>
+<v t="leo.20161118180529.21"><vh>Recovered node "快捷鍵" from @clean index.html</vh>
+<v t="leo.20161118180529.22"><vh>old:快捷鍵</vh></v>
+<v t="leo.20161118180529.23"><vh>new:快捷鍵</vh></v>
+</v>
+<v t="leo.20161118180529.24"><vh>Recovered node "投影片快捷鍵" from @clean index.html</vh>
+<v t="leo.20161118180529.25"><vh>old:投影片快捷鍵</vh></v>
+<v t="leo.20161118180529.26"><vh>new:投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20161118180529.27"><vh>Recovered node "三大主題教學" from @clean index.html</vh>
+<v t="leo.20161118180529.28"><vh>old:三大主題教學</vh></v>
+<v t="leo.20161118180529.29"><vh>new:三大主題教學</vh></v>
+</v>
+<v t="leo.20161118180529.30"><vh>Recovered node "主題教學" from @clean index.html</vh>
+<v t="leo.20161118180529.31"><vh>old:主題教學</vh></v>
+<v t="leo.20161118180529.32"><vh>new:主題教學</vh></v>
+</v>
+<v t="leo.20161118180529.33"><vh>Recovered node "計算機程式在教什麼?" from @clean index.html</vh>
+<v t="leo.20161118180529.34"><vh>old:計算機程式在教什麼?</vh></v>
+<v t="leo.20161118180529.35"><vh>new:計算機程式在教什麼?</vh></v>
+</v>
+<v t="leo.20161118180529.36"><vh>Recovered node "主題教學內容" from @clean index.html</vh>
+<v t="leo.20161118180529.37"><vh>old:主題教學內容</vh></v>
+<v t="leo.20161118180529.38"><vh>new:主題教學內容</vh></v>
+</v>
+<v t="leo.20161118180529.39"><vh>Recovered node "計算機程式在教什麼?" from @clean index.html</vh>
+<v t="leo.20161118180529.40"><vh>old:計算機程式在教什麼?</vh></v>
+<v t="leo.20161118180529.41"><vh>new:計算機程式在教什麼?</vh></v>
+</v>
+<v t="leo.20161118180529.42"><vh>Recovered node "相關課程" from @clean index.html</vh>
+<v t="leo.20161118180529.43"><vh>old:相關課程</vh></v>
+<v t="leo.20161118180529.44"><vh>new:相關課程</vh></v>
+</v>
+<v t="leo.20161118180529.45"><vh>Recovered node "計算機程式系列課程" from @clean index.html</vh>
+<v t="leo.20161118180529.46"><vh>old:計算機程式系列課程</vh></v>
+<v t="leo.20161118180529.47"><vh>new:計算機程式系列課程</vh></v>
+</v>
+<v t="leo.20161118180529.48"><vh>Recovered node "創造力" from @clean index.html</vh>
+<v t="leo.20161118180529.49"><vh>old:創造力</vh></v>
+<v t="leo.20161118180529.50"><vh>new:創造力</vh></v>
+</v>
+<v t="leo.20161118180529.51"><vh>Recovered node "何謂創造力?" from @clean index.html</vh>
+<v t="leo.20161118180529.52"><vh>old:何謂創造力?</vh></v>
+<v t="leo.20161118180529.53"><vh>new:何謂創造力?</vh></v>
+</v>
+<v t="leo.20161118180529.54"><vh>Recovered node "創造力" from @clean index.html</vh>
+<v t="leo.20161118180529.55"><vh>old:創造力</vh></v>
+<v t="leo.20161118180529.56"><vh>new:創造力</vh></v>
+</v>
+<v t="leo.20161118180529.57"><vh>Recovered node "何謂創造力?" from @clean index.html</vh>
+<v t="leo.20161118180529.58"><vh>old:何謂創造力?</vh></v>
+<v t="leo.20161118180529.59"><vh>new:何謂創造力?</vh></v>
+</v>
+<v t="leo.20161118180529.60"><vh>Recovered node "所謂自學" from @clean index.html</vh>
+<v t="leo.20161118180529.61"><vh>old:所謂自學</vh></v>
+<v t="leo.20161118180529.62"><vh>new:所謂自學</vh></v>
+</v>
+<v t="leo.20161118180529.63"><vh>Recovered node "自學的訓練" from @clean index.html</vh>
+<v t="leo.20161118180529.64"><vh>old:自學的訓練</vh></v>
+<v t="leo.20161118180529.65"><vh>new:自學的訓練</vh></v>
+</v>
+<v t="leo.20161118180529.66"><vh>Recovered node "執行力" from @clean index.html</vh>
+<v t="leo.20161118180529.67"><vh>old:執行力</vh></v>
+<v t="leo.20161118180529.68"><vh>new:執行力</vh></v>
+</v>
+<v t="leo.20161118180529.69"><vh>Recovered node "高效執行力" from @clean index.html</vh>
+<v t="leo.20161118180529.70"><vh>old:高效執行力</vh></v>
+<v t="leo.20161118180529.71"><vh>new:高效執行力</vh></v>
+</v>
+<v t="leo.20161118180529.72"><vh>Recovered node "CP 課程倉儲" from @clean index.html</vh>
+<v t="leo.20161118180529.73"><vh>old:CP 課程倉儲</vh></v>
+<v t="leo.20161118180529.74"><vh>new:CP 課程倉儲</vh></v>
+</v>
+<v t="leo.20161118180529.75"><vh>Recovered node "課程時段與規劃" from @clean index.html</vh>
+<v t="leo.20161118180529.76"><vh>old:課程時段與規劃</vh></v>
+<v t="leo.20161118180529.77"><vh>new:課程時段與規劃</vh></v>
+</v>
+<v t="leo.20161118180529.78"><vh>Recovered node "規劃、Wiki 與網誌" from @clean index.html</vh>
+<v t="leo.20161118180529.79"><vh>old:規劃、Wiki 與網誌</vh></v>
+<v t="leo.20161118180529.80"><vh>new:規劃、Wiki 與網誌</vh></v>
 </v>
-<v t="leo.20161118175522.81"><vh>Recovered node "下載 miniconda 可攜環境" from @clean index.html</vh>
-<v t="leo.20161118175522.82"><vh>old:下載 miniconda 可攜環境</vh></v>
-<v t="leo.20161118175522.83"><vh>new:下載 miniconda 可攜環境</vh></v>
+<v t="leo.20161118180529.81"><vh>Recovered node "下載 miniconda 可攜環境" from @clean index.html</vh>
+<v t="leo.20161118180529.82"><vh>old:下載 miniconda 可攜環境</vh></v>
+<v t="leo.20161118180529.83"><vh>new:下載 miniconda 可攜環境</vh></v>
 </v>
-<v t="leo.20161118175522.84"><vh>Recovered node "下載可攜程式環境" from @clean index.html</vh>
-<v t="leo.20161118175522.85"><vh>old:下載可攜程式環境</vh></v>
-<v t="leo.20161118175522.86"><vh>new:下載可攜程式環境</vh></v>
+<v t="leo.20161118180529.84"><vh>Recovered node "下載可攜程式環境" from @clean index.html</vh>
+<v t="leo.20161118180529.85"><vh>old:下載可攜程式環境</vh></v>
+<v t="leo.20161118180529.86"><vh>new:下載可攜程式環境</vh></v>
 </v>
-<v t="leo.20161118175522.87"><vh>Recovered node "學員自評項目" from @clean index.html</vh>
-<v t="leo.20161118175522.88"><vh>old:學員自評項目</vh></v>
-<v t="leo.20161118175522.89"><vh>new:學員自評項目</vh></v>
+<v t="leo.20161118180529.87"><vh>Recovered node "學員自評項目" from @clean index.html</vh>
+<v t="leo.20161118180529.88"><vh>old:學員自評項目</vh></v>
+<v t="leo.20161118180529.89"><vh>new:學員自評項目</vh></v>
 </v>
-<v t="leo.20161118175522.90"><vh>Recovered node "下載可攜程式環境" from @clean index.html</vh>
-<v t="leo.20161118175522.91"><vh>old:下載可攜程式環境</vh></v>
-<v t="leo.20161118175522.92"><vh>new:下載可攜程式環境</vh></v>
+<v t="leo.20161118180529.90"><vh>Recovered node "下載可攜程式環境" from @clean index.html</vh>
+<v t="leo.20161118180529.91"><vh>old:下載可攜程式環境</vh></v>
+<v t="leo.20161118180529.92"><vh>new:下載可攜程式環境</vh></v>
 </v>
-<v t="leo.20161118175522.93"><vh>Recovered node "自學力訓練" from @clean index.html</vh>
-<v t="leo.20161118175522.94"><vh>old:自學力訓練</vh></v>
-<v t="leo.20161118175522.95"><vh>new:自學力訓練</vh></v>
+<v t="leo.20161118180529.93"><vh>Recovered node "自學力訓練" from @clean index.html</vh>
+<v t="leo.20161118180529.94"><vh>old:自學力訓練</vh></v>
+<v t="leo.20161118180529.95"><vh>new:自學力訓練</vh></v>
 </v>
-<v t="leo.20161118175522.96"><vh>Recovered node "自學的材料" from @clean index.html</vh>
-<v t="leo.20161118175522.97"><vh>old:自學的材料</vh></v>
-<v t="leo.20161118175522.98"><vh>new:自學的材料</vh></v>
+<v t="leo.20161118180529.96"><vh>Recovered node "自學的材料" from @clean index.html</vh>
+<v t="leo.20161118180529.97"><vh>old:自學的材料</vh></v>
+<v t="leo.20161118180529.98"><vh>new:自學的材料</vh></v>
 </v>
-<v t="leo.20161118175522.99"><vh>Recovered node "自學 Python3" from @clean index.html</vh>
-<v t="leo.20161118175522.100"><vh>old:自學 Python3</vh></v>
-<v t="leo.20161118175522.101"><vh>new:自學 Python3</vh></v>
+<v t="leo.20161118180529.99"><vh>Recovered node "自學 Python3" from @clean index.html</vh>
+<v t="leo.20161118180529.100"><vh>old:自學 Python3</vh></v>
+<v t="leo.20161118180529.101"><vh>new:自學 Python3</vh></v>
 </v>
-<v t="leo.20161118175522.102"><vh>Recovered node "Python 執行環境" from @clean index.html</vh>
-<v t="leo.20161118175522.103"><vh>old:Python 執行環境</vh></v>
-<v t="leo.20161118175522.104"><vh>new:Python 執行環境</vh></v>
+<v t="leo.20161118180529.102"><vh>Recovered node "Python 執行環境" from @clean index.html</vh>
+<v t="leo.20161118180529.103"><vh>old:Python 執行環境</vh></v>
+<v t="leo.20161118180529.104"><vh>new:Python 執行環境</vh></v>
 </v>
-<v t="leo.20161118175522.105"><vh>Recovered node "在哪裡執行?" from @clean index.html</vh>
-<v t="leo.20161118175522.106"><vh>old:在哪裡執行?</vh></v>
-<v t="leo.20161118175522.107"><vh>new:在哪裡執行?</vh></v>
+<v t="leo.20161118180529.105"><vh>Recovered node "在哪裡執行?" from @clean index.html</vh>
+<v t="leo.20161118180529.106"><vh>old:在哪裡執行?</vh></v>
+<v t="leo.20161118180529.107"><vh>new:在哪裡執行?</vh></v>
 </v>
-<v t="leo.20161118175522.108"><vh>Recovered node "Python 解譯器" from @clean index.html</vh>
-<v t="leo.20161118175522.109"><vh>old:Python 解譯器</vh></v>
-<v t="leo.20161118175522.110"><vh>new:Python 解譯器</vh></v>
+<v t="leo.20161118180529.108"><vh>Recovered node "Python 解譯器" from @clean index.html</vh>
+<v t="leo.20161118180529.109"><vh>old:Python 解譯器</vh></v>
+<v t="leo.20161118180529.110"><vh>new:Python 解譯器</vh></v>
 </v>
-<v t="leo.20161118175522.111"><vh>Recovered node "Python 解譯器" from @clean index.html</vh>
-<v t="leo.20161118175522.112"><vh>old:Python 解譯器</vh></v>
-<v t="leo.20161118175522.113"><vh>new:Python 解譯器</vh></v>
+<v t="leo.20161118180529.111"><vh>Recovered node "Python 解譯器" from @clean index.html</vh>
+<v t="leo.20161118180529.112"><vh>old:Python 解譯器</vh></v>
+<v t="leo.20161118180529.113"><vh>new:Python 解譯器</vh></v>
 </v>
-<v t="leo.20161118175522.114"><vh>Recovered node "Python 版次" from @clean index.html</vh>
-<v t="leo.20161118175522.115"><vh>old:Python 版次</vh></v>
-<v t="leo.20161118175522.116"><vh>new:Python 版次</vh></v>
+<v t="leo.20161118180529.114"><vh>Recovered node "Python 版次" from @clean index.html</vh>
+<v t="leo.20161118180529.115"><vh>old:Python 版次</vh></v>
+<v t="leo.20161118180529.116"><vh>new:Python 版次</vh></v>
 </v>
-<v t="leo.20161118175522.117"><vh>Recovered node "Python 2 或 3?" from @clean index.html</vh>
-<v t="leo.20161118175522.118"><vh>old:Python 2 或 3?</vh></v>
-<v t="leo.20161118175522.119"><vh>new:Python 2 或 3?</vh></v>
+<v t="leo.20161118180529.117"><vh>Recovered node "Python 2 或 3?" from @clean index.html</vh>
+<v t="leo.20161118180529.118"><vh>old:Python 2 或 3?</vh></v>
+<v t="leo.20161118180529.119"><vh>new:Python 2 或 3?</vh></v>
 </v>
-<v t="leo.20161118175522.120"><vh>Recovered node "執行力訓練" from @clean index.html</vh>
-<v t="leo.20161118175522.121"><vh>old:執行力訓練</vh></v>
-<v t="leo.20161118175522.122"><vh>new:執行力訓練</vh></v>
+<v t="leo.20161118180529.120"><vh>Recovered node "執行力訓練" from @clean index.html</vh>
+<v t="leo.20161118180529.121"><vh>old:執行力訓練</vh></v>
+<v t="leo.20161118180529.122"><vh>new:執行力訓練</vh></v>
 </v>
-<v t="leo.20161118175522.123"><vh>Recovered node "程式練習主題" from @clean index.html</vh>
-<v t="leo.20161118175522.124"><vh>old:程式練習主題</vh></v>
-<v t="leo.20161118175522.125"><vh>new:程式練習主題</vh></v>
+<v t="leo.20161118180529.123"><vh>Recovered node "程式練習主題" from @clean index.html</vh>
+<v t="leo.20161118180529.124"><vh>old:程式練習主題</vh></v>
+<v t="leo.20161118180529.125"><vh>new:程式練習主題</vh></v>
 </v>
-<v t="leo.20161118175522.126"><vh>Recovered node "程式專題" from @clean index.html</vh>
-<v t="leo.20161118175522.127"><vh>old:程式專題</vh></v>
-<v t="leo.20161118175522.128"><vh>new:程式專題</vh></v>
+<v t="leo.20161118180529.126"><vh>Recovered node "程式專題" from @clean index.html</vh>
+<v t="leo.20161118180529.127"><vh>old:程式專題</vh></v>
+<v t="leo.20161118180529.128"><vh>new:程式專題</vh></v>
 </v>
-<v t="leo.20161118175522.129"><vh>Recovered node "如何進行上課分組與排座位" from @clean index.html</vh>
-<v t="leo.20161118175522.130"><vh>old:如何進行上課分組與排座位</vh></v>
-<v t="leo.20161118175522.131"><vh>new:如何進行上課分組與排座位</vh></v>
+<v t="leo.20161118180529.129"><vh>Recovered node "如何進行上課分組與排座位" from @clean index.html</vh>
+<v t="leo.20161118180529.130"><vh>old:如何進行上課分組與排座位</vh></v>
+<v t="leo.20161118180529.131"><vh>new:如何進行上課分組與排座位</vh></v>
 </v>
-<v t="leo.20161118175522.132"><vh>Recovered node "課程分組排座位" from @clean index.html</vh>
-<v t="leo.20161118175522.133"><vh>old:課程分組排座位</vh></v>
-<v t="leo.20161118175522.134"><vh>new:課程分組排座位</vh></v>
+<v t="leo.20161118180529.132"><vh>Recovered node "課程分組排座位" from @clean index.html</vh>
+<v t="leo.20161118180529.133"><vh>old:課程分組排座位</vh></v>
+<v t="leo.20161118180529.134"><vh>new:課程分組排座位</vh></v>
 </v>
-<v t="leo.20161118175522.135"><vh>Recovered node "如何寫一個猜數字遊戲?" from @clean index.html</vh>
-<v t="leo.20161118175522.136"><vh>old:如何寫一個猜數字遊戲?</vh></v>
-<v t="leo.20161118175522.137"><vh>new:如何寫一個猜數字遊戲?</vh></v>
+<v t="leo.20161118180529.135"><vh>Recovered node "如何寫一個猜數字遊戲?" from @clean index.html</vh>
+<v t="leo.20161118180529.136"><vh>old:如何寫一個猜數字遊戲?</vh></v>
+<v t="leo.20161118180529.137"><vh>new:如何寫一個猜數字遊戲?</vh></v>
 </v>
-<v t="leo.20161118175522.138"><vh>Recovered node "猜數字遊戲" from @clean index.html</vh>
-<v t="leo.20161118175522.139"><vh>old:猜數字遊戲</vh></v>
-<v t="leo.20161118175522.140"><vh>new:猜數字遊戲</vh></v>
+<v t="leo.20161118180529.138"><vh>Recovered node "猜數字遊戲" from @clean index.html</vh>
+<v t="leo.20161118180529.139"><vh>old:猜數字遊戲</vh></v>
+<v t="leo.20161118180529.140"><vh>new:猜數字遊戲</vh></v>
 </v>
-<v t="leo.20161118175522.141"><vh>Recovered node "如何繪製 2D 靜態圖?" from @clean index.html</vh>
-<v t="leo.20161118175522.142"><vh>old:如何繪製 2D 靜態圖?</vh></v>
-<v t="leo.20161118175522.143"><vh>new:如何繪製 2D 靜態圖?</vh></v>
+<v t="leo.20161118180529.141"><vh>Recovered node "如何繪製 2D 靜態圖?" from @clean index.html</vh>
+<v t="leo.20161118180529.142"><vh>old:如何繪製 2D 靜態圖?</vh></v>
+<v t="leo.20161118180529.143"><vh>new:如何繪製 2D 靜態圖?</vh></v>
 </v>
-<v t="leo.20161118175522.144"><vh>Recovered node "2D 繪圖" from @clean index.html</vh>
-<v t="leo.20161118175522.145"><vh>old:2D 繪圖</vh></v>
-<v t="leo.20161118175522.146"><vh>new:2D 繪圖</vh></v>
+<v t="leo.20161118180529.144"><vh>Recovered node "2D 繪圖" from @clean index.html</vh>
+<v t="leo.20161118180529.145"><vh>old:2D 繪圖</vh></v>
+<v t="leo.20161118180529.146"><vh>new:2D 繪圖</vh></v>
 </v>
-<v t="leo.20161118175522.147"><vh>Recovered node "如何製作一個簡單的網際遊戲?" from @clean index.html</vh>
-<v t="leo.20161118175522.148"><vh>old:如何製作一個簡單的網際遊戲?</vh></v>
-<v t="leo.20161118175522.149"><vh>new:如何製作一個簡單的網際遊戲?</vh></v>
+<v t="leo.20161118180529.147"><vh>Recovered node "如何製作一個簡單的網際遊戲?" from @clean index.html</vh>
+<v t="leo.20161118180529.148"><vh>old:如何製作一個簡單的網際遊戲?</vh></v>
+<v t="leo.20161118180529.149"><vh>new:如何製作一個簡單的網際遊戲?</vh></v>
 </v>
-<v t="leo.20161118175522.150"><vh>Recovered node "網際遊戲" from @clean index.html</vh>
-<v t="leo.20161118175522.151"><vh>old:網際遊戲</vh></v>
-<v t="leo.20161118175522.152"><vh>new:網際遊戲</vh></v>
+<v t="leo.20161118180529.150"><vh>Recovered node "網際遊戲" from @clean index.html</vh>
+<v t="leo.20161118180529.151"><vh>old:網際遊戲</vh></v>
+<v t="leo.20161118180529.152"><vh>new:網際遊戲</vh></v>
 </v>
-<v t="leo.20161118175522.153"><vh>Recovered node "協同力訓練" from @clean index.html</vh>
-<v t="leo.20161118175522.154"><vh>old:協同力訓練</vh></v>
-<v t="leo.20161118175522.155"><vh>new:協同力訓練</vh></v>
+<v t="leo.20161118180529.153"><vh>Recovered node "協同力訓練" from @clean index.html</vh>
+<v t="leo.20161118180529.154"><vh>old:協同力訓練</vh></v>
+<v t="leo.20161118180529.155"><vh>new:協同力訓練</vh></v>
 </v>
-<v t="leo.20161118175522.156"><vh>Recovered node "Github 帳號" from @clean index.html</vh>
-<v t="leo.20161118175522.157"><vh>old:Github 帳號</vh></v>
-<v t="leo.20161118175522.158"><vh>new:Github 帳號</vh></v>
+<v t="leo.20161118180529.156"><vh>Recovered node "Github 帳號" from @clean index.html</vh>
+<v t="leo.20161118180529.157"><vh>old:Github 帳號</vh></v>
+<v t="leo.20161118180529.158"><vh>new:Github 帳號</vh></v>
 </v>
-<v t="leo.20161118175522.159"><vh>Recovered node "Github 倉儲網頁" from @clean index.html</vh>
-<v t="leo.20161118175522.160"><vh>old:Github 倉儲網頁</vh></v>
-<v t="leo.20161118175522.161"><vh>new:Github 倉儲網頁</vh></v>
+<v t="leo.20161118180529.159"><vh>Recovered node "Github 倉儲網頁" from @clean index.html</vh>
+<v t="leo.20161118180529.160"><vh>old:Github 倉儲網頁</vh></v>
+<v t="leo.20161118180529.161"><vh>new:Github 倉儲網頁</vh></v>
 </v>
-<v t="leo.20161118175522.162"><vh>Recovered node "倉儲子模組串連" from @clean index.html</vh>
-<v t="leo.20161118175522.163"><vh>old:倉儲子模組串連</vh></v>
-<v t="leo.20161118175522.164"><vh>new:倉儲子模組串連</vh></v>
+<v t="leo.20161118180529.162"><vh>Recovered node "倉儲子模組串連" from @clean index.html</vh>
+<v t="leo.20161118180529.163"><vh>old:倉儲子模組串連</vh></v>
+<v t="leo.20161118180529.164"><vh>new:倉儲子模組串連</vh></v>
 </v>
-<v t="leo.20161118175522.165"><vh>Recovered node "學員作業網頁定版" from @clean index.html</vh>
-<v t="leo.20161118175522.166"><vh>old:學員作業網頁定版</vh></v>
-<v t="leo.20161118175522.167"><vh>new:學員作業網頁定版</vh></v>
+<v t="leo.20161118180529.165"><vh>Recovered node "學員作業網頁定版" from @clean index.html</vh>
+<v t="leo.20161118180529.166"><vh>old:學員作業網頁定版</vh></v>
+<v t="leo.20161118180529.167"><vh>new:學員作業網頁定版</vh></v>
 </v>
-<v t="leo.20161118175522.168"><vh>Recovered node "倉儲版本拉回請求" from @clean index.html</vh>
-<v t="leo.20161118175522.169"><vh>old:倉儲版本拉回請求</vh></v>
-<v t="leo.20161118175522.170"><vh>new:倉儲版本拉回請求</vh></v>
+<v t="leo.20161118180529.168"><vh>Recovered node "倉儲版本拉回請求" from @clean index.html</vh>
+<v t="leo.20161118180529.169"><vh>old:倉儲版本拉回請求</vh></v>
+<v t="leo.20161118180529.170"><vh>new:倉儲版本拉回請求</vh></v>
 </v>
-<v t="leo.20161118175522.171"><vh>Recovered node "Github 倉儲拉回請求" from @clean index.html</vh>
-<v t="leo.20161118175522.172"><vh>old:Github 倉儲拉回請求</vh></v>
-<v t="leo.20161118175522.173"><vh>new:Github 倉儲拉回請求</vh></v>
+<v t="leo.20161118180529.171"><vh>Recovered node "Github 倉儲拉回請求" from @clean index.html</vh>
+<v t="leo.20161118180529.172"><vh>old:Github 倉儲拉回請求</vh></v>
+<v t="leo.20161118180529.173"><vh>new:Github 倉儲拉回請求</vh></v>
 </v>
-<v t="leo.20161118175522.174"><vh>Recovered node "開始學 Python" from @clean index.html</vh>
-<v t="leo.20161118175522.175"><vh>old:開始學 Python</vh></v>
-<v t="leo.20161118175522.176"><vh>new:開始學 Python</vh></v>
+<v t="leo.20161118180529.174"><vh>Recovered node "開始學 Python" from @clean index.html</vh>
+<v t="leo.20161118180529.175"><vh>old:開始學 Python</vh></v>
+<v t="leo.20161118180529.176"><vh>new:開始學 Python</vh></v>
 </v>
-<v t="leo.20161118175522.177"><vh>Recovered node "Python 基本語法" from @clean index.html</vh>
-<v t="leo.20161118175522.178"><vh>old:Python 基本語法</vh></v>
-<v t="leo.20161118175522.179"><vh>new:Python 基本語法</vh></v>
+<v t="leo.20161118180529.177"><vh>Recovered node "Python 基本語法" from @clean index.html</vh>
+<v t="leo.20161118180529.178"><vh>old:Python 基本語法</vh></v>
+<v t="leo.20161118180529.179"><vh>new:Python 基本語法</vh></v>
 </v>
-<v t="leo.20161118175522.180"><vh>Recovered node "Python3 語法" from @clean index.html</vh>
-<v t="leo.20161118175522.181"><vh>old:Python3 語法</vh></v>
-<v t="leo.20161118175522.182"><vh>new:Python3 語法</vh></v>
+<v t="leo.20161118180529.180"><vh>Recovered node "Python3 語法" from @clean index.html</vh>
+<v t="leo.20161118180529.181"><vh>old:Python3 語法</vh></v>
+<v t="leo.20161118180529.182"><vh>new:Python3 語法</vh></v>
 </v>
-<v t="leo.20161118175522.183"><vh>Recovered node "Python 迴圈" from @clean index.html</vh>
-<v t="leo.20161118175522.184"><vh>old:Python 迴圈</vh></v>
-<v t="leo.20161118175522.185"><vh>new:Python 迴圈</vh></v>
+<v t="leo.20161118180529.183"><vh>Recovered node "Python 迴圈" from @clean index.html</vh>
+<v t="leo.20161118180529.184"><vh>old:Python 迴圈</vh></v>
+<v t="leo.20161118180529.185"><vh>new:Python 迴圈</vh></v>
 </v>
-<v t="leo.20161118175522.186"><vh>Recovered node "for 迴圈用法" from @clean index.html</vh>
-<v t="leo.20161118175522.187"><vh>old:for 迴圈用法</vh></v>
-<v t="leo.20161118175522.188"><vh>new:for 迴圈用法</vh></v>
+<v t="leo.20161118180529.186"><vh>Recovered node "for 迴圈用法" from @clean index.html</vh>
+<v t="leo.20161118180529.187"><vh>old:for 迴圈用法</vh></v>
+<v t="leo.20161118180529.188"><vh>new:for 迴圈用法</vh></v>
 </v>
-<v t="leo.20161118175522.189"><vh>Recovered node "Python 函式" from @clean index.html</vh>
-<v t="leo.20161118175522.190"><vh>old:Python 函式</vh></v>
-<v t="leo.20161118175522.191"><vh>new:Python 函式</vh></v>
+<v t="leo.20161118180529.189"><vh>Recovered node "Python 函式" from @clean index.html</vh>
+<v t="leo.20161118180529.190"><vh>old:Python 函式</vh></v>
+<v t="leo.20161118180529.191"><vh>new:Python 函式</vh></v>
 </v>
-<v t="leo.20161118175522.192"><vh>Recovered node "函式用法" from @clean index.html</vh>
-<v t="leo.20161118175522.193"><vh>old:函式用法</vh></v>
-<v t="leo.20161118175522.194"><vh>new:函式用法</vh></v>
+<v t="leo.20161118180529.192"><vh>Recovered node "函式用法" from @clean index.html</vh>
+<v t="leo.20161118180529.193"><vh>old:函式用法</vh></v>
+<v t="leo.20161118180529.194"><vh>new:函式用法</vh></v>
 </v>
-<v t="leo.20161118175522.195"><vh>Recovered node "Python 數列" from @clean index.html</vh>
-<v t="leo.20161118175522.196"><vh>old:Python 數列</vh></v>
-<v t="leo.20161118175522.197"><vh>new:Python 數列</vh></v>
+<v t="leo.20161118180529.195"><vh>Recovered node "Python 數列" from @clean index.html</vh>
+<v t="leo.20161118180529.196"><vh>old:Python 數列</vh></v>
+<v t="leo.20161118180529.197"><vh>new:Python 數列</vh></v>
 </v>
-<v t="leo.20161118175522.198"><vh>Recovered node "數列用法" from @clean index.html</vh>
-<v t="leo.20161118175522.199"><vh>old:數列用法</vh></v>
-<v t="leo.20161118175522.200"><vh>new:數列用法</vh></v>
+<v t="leo.20161118180529.198"><vh>Recovered node "數列用法" from @clean index.html</vh>
+<v t="leo.20161118180529.199"><vh>old:數列用法</vh></v>
+<v t="leo.20161118180529.200"><vh>new:數列用法</vh></v>
 </v>
-<v t="leo.20161118175522.201"><vh>Recovered node "分組程式" from @clean index.html</vh>
-<v t="leo.20161118175522.202"><vh>old:分組程式</vh></v>
-<v t="leo.20161118175522.203"><vh>new:分組程式</vh></v>
+<v t="leo.20161118180529.201"><vh>Recovered node "分組程式" from @clean index.html</vh>
+<v t="leo.20161118180529.202"><vh>old:分組程式</vh></v>
+<v t="leo.20161118180529.203"><vh>new:分組程式</vh></v>
 </v>
-<v t="leo.20161118175522.204"><vh>Recovered node "分組程式內容" from @clean index.html</vh>
-<v t="leo.20161118175522.205"><vh>old:分組程式內容</vh></v>
-<v t="leo.20161118175522.206"><vh>new:分組程式內容</vh></v>
+<v t="leo.20161118180529.204"><vh>Recovered node "分組程式內容" from @clean index.html</vh>
+<v t="leo.20161118180529.205"><vh>old:分組程式內容</vh></v>
+<v t="leo.20161118180529.206"><vh>new:分組程式內容</vh></v>
 </v>
-<v t="leo.20161118175522.207"><vh>Recovered node "猜數字遊戲" from @clean index.html</vh>
-<v t="leo.20161118175522.208"><vh>old:猜數字遊戲</vh></v>
-<v t="leo.20161118175522.209"><vh>new:猜數字遊戲</vh></v>
+<v t="leo.20161118180529.207"><vh>Recovered node "猜數字遊戲" from @clean index.html</vh>
+<v t="leo.20161118180529.208"><vh>old:猜數字遊戲</vh></v>
+<v t="leo.20161118180529.209"><vh>new:猜數字遊戲</vh></v>
 </v>
-<v t="leo.20161118175522.210"><vh>Recovered node "遊戲邏輯" from @clean index.html</vh>
-<v t="leo.20161118175522.211"><vh>old:遊戲邏輯</vh></v>
-<v t="leo.20161118175522.212"><vh>new:遊戲邏輯</vh></v>
+<v t="leo.20161118180529.210"><vh>Recovered node "遊戲邏輯" from @clean index.html</vh>
+<v t="leo.20161118180529.211"><vh>old:遊戲邏輯</vh></v>
+<v t="leo.20161118180529.212"><vh>new:遊戲邏輯</vh></v>
 </v>
-<v t="leo.20161118175522.213"><vh>Recovered node "2 D 繪圖" from @clean index.html</vh>
-<v t="leo.20161118175522.214"><vh>old:2 D 繪圖</vh></v>
-<v t="leo.20161118175522.215"><vh>new:2 D 繪圖</vh></v>
+<v t="leo.20161118180529.213"><vh>Recovered node "2 D 繪圖" from @clean index.html</vh>
+<v t="leo.20161118180529.214"><vh>old:2 D 繪圖</vh></v>
+<v t="leo.20161118180529.215"><vh>new:2 D 繪圖</vh></v>
 </v>
-<v t="leo.20161118175522.216"><vh>Recovered node "Python 網際繪圖" from @clean index.html</vh>
-<v t="leo.20161118175522.217"><vh>old:Python 網際繪圖</vh></v>
-<v t="leo.20161118175522.218"><vh>new:Python 網際繪圖</vh></v>
+<v t="leo.20161118180529.216"><vh>Recovered node "Python 網際繪圖" from @clean index.html</vh>
+<v t="leo.20161118180529.217"><vh>old:Python 網際繪圖</vh></v>
+<v t="leo.20161118180529.218"><vh>new:Python 網際繪圖</vh></v>
 </v>
-<v t="leo.20161118175522.219"><vh>Recovered node "2 D 動畫" from @clean index.html</vh>
-<v t="leo.20161118175522.220"><vh>old:2 D 動畫</vh></v>
-<v t="leo.20161118175522.221"><vh>new:2 D 動畫</vh></v>
+<v t="leo.20161118180529.219"><vh>Recovered node "2 D 動畫" from @clean index.html</vh>
+<v t="leo.20161118180529.220"><vh>old:2 D 動畫</vh></v>
+<v t="leo.20161118180529.221"><vh>new:2 D 動畫</vh></v>
 </v>
-<v t="leo.20161118175522.222"><vh>Recovered node "網際動畫範例" from @clean index.html</vh>
-<v t="leo.20161118175522.223"><vh>old:網際動畫範例</vh></v>
-<v t="leo.20161118175522.224"><vh>new:網際動畫範例</vh></v>
+<v t="leo.20161118180529.222"><vh>Recovered node "網際動畫範例" from @clean index.html</vh>
+<v t="leo.20161118180529.223"><vh>old:網際動畫範例</vh></v>
+<v t="leo.20161118180529.224"><vh>new:網際動畫範例</vh></v>
 </v>
-<v t="leo.20161118175522.225"><vh>Recovered node "各式內容引用範例" from @clean index.html</vh>
-<v t="leo.20161118175522.226"><vh>old:各式內容引用範例</vh></v>
-<v t="leo.20161118175522.227"><vh>new:各式內容引用範例</vh></v>
+<v t="leo.20161118180529.225"><vh>Recovered node "各式內容引用範例" from @clean index.html</vh>
+<v t="leo.20161118180529.226"><vh>old:各式內容引用範例</vh></v>
+<v t="leo.20161118180529.227"><vh>new:各式內容引用範例</vh></v>
 </v>
-<v t="leo.20161118175522.228"><vh>Recovered node "導入數學符號與方程式" from @clean index.html</vh>
-<v t="leo.20161118175522.229"><vh>old:導入數學符號與方程式</vh></v>
-<v t="leo.20161118175522.230"><vh>new:導入數學符號與方程式</vh></v>
+<v t="leo.20161118180529.228"><vh>Recovered node "導入數學符號與方程式" from @clean index.html</vh>
+<v t="leo.20161118180529.229"><vh>old:導入數學符號與方程式</vh></v>
+<v t="leo.20161118180529.230"><vh>new:導入數學符號與方程式</vh></v>
 </v>
-<v t="leo.20161118175522.231"><vh>Recovered node "LaTeX 格式方程式" from @clean index.html</vh>
-<v t="leo.20161118175522.232"><vh>old:LaTeX 格式方程式</vh></v>
-<v t="leo.20161118175522.233"><vh>new:LaTeX 格式方程式</vh></v>
+<v t="leo.20161118180529.231"><vh>Recovered node "LaTeX 格式方程式" from @clean index.html</vh>
+<v t="leo.20161118180529.232"><vh>old:LaTeX 格式方程式</vh></v>
+<v t="leo.20161118180529.233"><vh>new:LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20161118175522.234"><vh>Recovered node "導入縮排程式碼" from @clean index.html</vh>
-<v t="leo.20161118175522.235"><vh>old:導入縮排程式碼</vh></v>
-<v t="leo.20161118175522.236"><vh>new:導入縮排程式碼</vh></v>
+<v t="leo.20161118180529.234"><vh>Recovered node "導入縮排程式碼" from @clean index.html</vh>
+<v t="leo.20161118180529.235"><vh>old:導入縮排程式碼</vh></v>
+<v t="leo.20161118180529.236"><vh>new:導入縮排程式碼</vh></v>
 </v>
-<v t="leo.20161118175522.237"><vh>Recovered node "引用程式碼" from @clean index.html</vh>
-<v t="leo.20161118175522.238"><vh>old:引用程式碼</vh></v>
-<v t="leo.20161118175522.239"><vh>new:引用程式碼</vh></v>
+<v t="leo.20161118180529.237"><vh>Recovered node "引用程式碼" from @clean index.html</vh>
+<v t="leo.20161118180529.238"><vh>old:引用程式碼</vh></v>
+<v t="leo.20161118180529.239"><vh>new:引用程式碼</vh></v>
 </v>
-<v t="leo.20161118175522.240"><vh>Recovered node "導入影片" from @clean index.html</vh>
-<v t="leo.20161118175522.241"><vh>old:導入影片</vh></v>
-<v t="leo.20161118175522.242"><vh>new:導入影片</vh></v>
+<v t="leo.20161118180529.240"><vh>Recovered node "導入影片" from @clean index.html</vh>
+<v t="leo.20161118180529.241"><vh>old:導入影片</vh></v>
+<v t="leo.20161118180529.242"><vh>new:導入影片</vh></v>
 </v>
-<v t="leo.20161118175522.243"><vh>Recovered node "iframe 導入影片" from @clean index.html</vh>
-<v t="leo.20161118175522.244"><vh>old:iframe 導入影片</vh></v>
-<v t="leo.20161118175522.245"><vh>new:iframe 導入影片</vh></v>
+<v t="leo.20161118180529.243"><vh>Recovered node "iframe 導入影片" from @clean index.html</vh>
+<v t="leo.20161118180529.244"><vh>old:iframe 導入影片</vh></v>
+<v t="leo.20161118180529.245"><vh>new:iframe 導入影片</vh></v>
 </v>
 </v>
 </vnodes>
@@ -1083,12 +1083,12 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 <t tx="leo.20151213230957.1"># 設定網誌以 md 檔案建立的 file system date 為準, 無需自行設定
 
 DEFAULT_DATE = 'fs'</t>
-<t tx="leo.20161118175522.10">&lt;div class="reveal"&gt;
+<t tx="leo.20161118180529.10">&lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
 
 </t>
-<t tx="leo.20161118175522.100"># 自學 Python3
+<t tx="leo.20161118180529.100"># 自學 Python3
 
 [Python3 程式範例](https://github.com/mdecourse/2016fallcp/blob/master/python3program.py)
 ### 在哪裡執行?
@@ -1096,8 +1096,8 @@ DEFAULT_DATE = 'fs'</t>
 ### 如何寫心得?
 ### 如何錄製操作過程?
 </t>
-<t tx="leo.20161118175522.101"></t>
-<t tx="leo.20161118175522.102">(uncached) yen.20161011122957.1
+<t tx="leo.20161118180529.101"></t>
+<t tx="leo.20161118180529.102">(uncached) yen.20161011122957.1
 Diff...
 + &lt;section data-markdown&gt;
 +     &lt;script type="text/template"&gt;
@@ -1108,7 +1108,7 @@ Diff...
 + 
 + 						
 </t>
-<t tx="leo.20161118175522.103">&lt;section data-markdown&gt;
+<t tx="leo.20161118180529.103">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -1117,9 +1117,9 @@ Diff...
 
 						
 </t>
-<t tx="leo.20161118175522.104">@others
+<t tx="leo.20161118180529.104">@others
 </t>
-<t tx="leo.20161118175522.105">(uncached) yen.20161011122957.2
+<t tx="leo.20161118180529.105">(uncached) yen.20161011122957.2
 Diff...
 + # 在哪裡執行?
 + 
@@ -1127,14 +1127,14 @@ Diff...
 + ### 單機連結到遠端主機中 (遠端)
 + ### 瀏覽器中 (網際端)
 </t>
-<t tx="leo.20161118175522.106"># 在哪裡執行?
+<t tx="leo.20161118180529.106"># 在哪裡執行?
 
 ### 單機操作系統中 (近端)
 ### 單機連結到遠端主機中 (遠端)
 ### 瀏覽器中 (網際端)
 </t>
-<t tx="leo.20161118175522.107"></t>
-<t tx="leo.20161118175522.108">(uncached) yen.20161011123951.1
+<t tx="leo.20161118180529.107"></t>
+<t tx="leo.20161118180529.108">(uncached) yen.20161011123951.1
 Diff...
 + &lt;section data-markdown&gt;
 +     &lt;script type="text/template"&gt;
@@ -1145,7 +1145,7 @@ Diff...
 + 
 + 						
 </t>
-<t tx="leo.20161118175522.109">&lt;section data-markdown&gt;
+<t tx="leo.20161118180529.109">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -1154,14 +1154,14 @@ Diff...
 
 						
 </t>
-<t tx="leo.20161118175522.11">	&lt;body&gt;
+<t tx="leo.20161118180529.11">	&lt;body&gt;
 @others
                               
 				&lt;!-- Example of nested vertical slides --&gt;
 </t>
-<t tx="leo.20161118175522.110">@others
+<t tx="leo.20161118180529.110">@others
 </t>
-<t tx="leo.20161118175522.111">(uncached) yen.20161011123951.2
+<t tx="leo.20161118180529.111">(uncached) yen.20161011123951.2
 Diff...
 + # Python 解譯器
 + 
@@ -1177,7 +1177,7 @@ Diff...
 + 
 + Brython (Javascript): https://www.brython.info/
 </t>
-<t tx="leo.20161118175522.112"># Python 解譯器
+<t tx="leo.20161118180529.112"># Python 解譯器
 
 CPython: https://www.python.org/
 
@@ -1191,8 +1191,8 @@ Pypy (Python): http://pypy.org/
 
 Brython (Javascript): https://www.brython.info/
 </t>
-<t tx="leo.20161118175522.113"></t>
-<t tx="leo.20161118175522.114">(uncached) yen.20161011124118.1
+<t tx="leo.20161118180529.113"></t>
+<t tx="leo.20161118180529.114">(uncached) yen.20161011124118.1
 Diff...
 + &lt;section data-markdown&gt;
 +     &lt;script type="text/template"&gt;
@@ -1203,7 +1203,7 @@ Diff...
 + 
 + 						
 </t>
-<t tx="leo.20161118175522.115">&lt;section data-markdown&gt;
+<t tx="leo.20161118180529.115">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -1212,9 +1212,9 @@ Diff...
 
 						
 </t>
-<t tx="leo.20161118175522.116">@others
+<t tx="leo.20161118180529.116">@others
 </t>
-<t tx="leo.20161118175522.117">(uncached) yen.20161011124118.2
+<t tx="leo.20161118180529.117">(uncached) yen.20161011124118.2
 Diff...
 + # Python 2 或 3?
 + 
@@ -1222,14 +1222,14 @@ Diff...
 + 但是, 若沒有特別約束
 + ### 建議直接學習 Python3
 </t>
-<t tx="leo.20161118175522.118"># Python 2 或 3?
+<t tx="leo.20161118180529.118"># Python 2 或 3?
 
 ### 業界大部份仍以 2.7 版為主
 但是, 若沒有特別約束
 ### 建議直接學習 Python3
 </t>
-<t tx="leo.20161118175522.119"></t>
-<t tx="leo.20161118175522.12">(uncached) amd.20161004083800.7
+<t tx="leo.20161118180529.119"></t>
+<t tx="leo.20161118180529.12">(uncached) amd.20161004083800.7
 Diff...
 + &lt;!-- Any section element inside of this container is displayed as a slide --&gt;
 + &lt;div class="slides"&gt;
@@ -1241,17 +1241,17 @@ Diff...
 - &lt;p&gt;&lt;a href="https://vimeo.com/183954581"&gt;2016-09-23_fork_pull_requests&lt;/a&gt; from &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 -                               &lt;/section&gt;
 </t>
-<t tx="leo.20161118175522.120">(uncached) yen.20161011125115.1
+<t tx="leo.20161118180529.120">(uncached) yen.20161011125115.1
 Diff...
 + &lt;section&gt;
   @others
 + &lt;/section&gt;</t>
-<t tx="leo.20161118175522.121">&lt;section&gt;
+<t tx="leo.20161118180529.121">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
-<t tx="leo.20161118175522.122">@others
+<t tx="leo.20161118180529.122">@others
 </t>
-<t tx="leo.20161118175522.123">(uncached) yen.20161016011920.1
+<t tx="leo.20161118180529.123">(uncached) yen.20161016011920.1
 Diff...
 + &lt;section data-markdown&gt;
 +     &lt;script type="text/template"&gt;
@@ -1262,7 +1262,7 @@ Diff...
 + 
 + 						
 </t>
-<t tx="leo.20161118175522.124">&lt;section data-markdown&gt;
+<t tx="leo.20161118180529.124">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -1271,9 +1271,9 @@ Diff...
 
 						
 </t>
-<t tx="leo.20161118175522.125">@others
+<t tx="leo.20161118180529.125">@others
 </t>
-<t tx="leo.20161118175522.126">(uncached) yen.20161016011920.2
+<t tx="leo.20161118180529.126">(uncached) yen.20161016011920.2
 Diff...
 + # 計算機程式專題
 + 
@@ -1282,15 +1282,15 @@ Diff...
 + * 如何繪製 2D 靜態圖?
 + * 如何製作一個簡單的網際遊戲?
 </t>
-<t tx="leo.20161118175522.127"># 計算機程式專題
+<t tx="leo.20161118180529.127"># 計算機程式專題
 
 * 如何進行上課分組與排座位?
 * 如何寫一個猜數字遊戲?
 * 如何繪製 2D 靜態圖?
 * 如何製作一個簡單的網際遊戲?
 </t>
-<t tx="leo.20161118175522.128"></t>
-<t tx="leo.20161118175522.129">(uncached) yen.20161011125115.2
+<t tx="leo.20161118180529.128"></t>
+<t tx="leo.20161118180529.129">(uncached) yen.20161011125115.2
 Diff...
 + &lt;section data-markdown&gt;
 +     &lt;script type="text/template"&gt;
@@ -1301,13 +1301,13 @@ Diff...
 + 
 + 						
 </t>
-<t tx="leo.20161118175522.13">&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
+<t tx="leo.20161118180529.13">&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
 
 </t>
-<t tx="leo.20161118175522.130">&lt;section data-markdown&gt;
+<t tx="leo.20161118180529.130">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -1316,9 +1316,9 @@ Diff...
 
 						
 </t>
-<t tx="leo.20161118175522.131">@others
+<t tx="leo.20161118180529.131">@others
 </t>
-<t tx="leo.20161118175522.132">(uncached) yen.20161011125115.3
+<t tx="leo.20161118180529.132">(uncached) yen.20161011125115.3
 Diff...
 + # 課程分組排座位
 + 
@@ -1326,14 +1326,14 @@ Diff...
 + * 請畫出流程圖
 + * 如何進行最好?
 </t>
-<t tx="leo.20161118175522.133"># 課程分組排座位
+<t tx="leo.20161118180529.133"># 課程分組排座位
 
 * 想像一下分組流程
 * 請畫出流程圖
 * 如何進行最好?
 </t>
-<t tx="leo.20161118175522.134"></t>
-<t tx="leo.20161118175522.135">(uncached) yen.20161016012215.1
+<t tx="leo.20161118180529.134"></t>
+<t tx="leo.20161118180529.135">(uncached) yen.20161016012215.1
 Diff...
 + &lt;section data-markdown&gt;
 +     &lt;script type="text/template"&gt;
@@ -1344,7 +1344,7 @@ Diff...
 + 
 + 						
 </t>
-<t tx="leo.20161118175522.136">&lt;section data-markdown&gt;
+<t tx="leo.20161118180529.136">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -1353,9 +1353,9 @@ Diff...
 
 						
 </t>
-<t tx="leo.20161118175522.137">@others
+<t tx="leo.20161118180529.137">@others
 </t>
-<t tx="leo.20161118175522.138">(uncached) yen.20161016012215.2
+<t tx="leo.20161118180529.138">(uncached) yen.20161016012215.2
 Diff...
 + # 猜數字遊戲
 + 
@@ -1363,20 +1363,20 @@ Diff...
 + * 請畫出流程圖
 + * 有沒有參考資料?
 </t>
-<t tx="leo.20161118175522.139"># 猜數字遊戲
+<t tx="leo.20161118180529.139"># 猜數字遊戲
 
 * 單機執行還是瀏覽器執行?
 * 請畫出流程圖
 * 有沒有參考資料?
 </t>
-<t tx="leo.20161118175522.14">
+<t tx="leo.20161118180529.14">
 		&lt;div class="reveal"&gt;
 @others
 &lt;p&gt;&lt;a href="https://vimeo.com/183954581"&gt;2016-09-23_fork_pull_requests&lt;/a&gt; from &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
                               &lt;/section&gt;
 </t>
-<t tx="leo.20161118175522.140"></t>
-<t tx="leo.20161118175522.141">(uncached) yen.20161016012253.1
+<t tx="leo.20161118180529.140"></t>
+<t tx="leo.20161118180529.141">(uncached) yen.20161016012253.1
 Diff...
 + &lt;section data-markdown&gt;
 +     &lt;script type="text/template"&gt;
@@ -1387,7 +1387,7 @@ Diff...
 + 
 + 						
 </t>
-<t tx="leo.20161118175522.142">&lt;section data-markdown&gt;
+<t tx="leo.20161118180529.142">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -1396,9 +1396,9 @@ Diff...
 
 						
 </t>
-<t tx="leo.20161118175522.143">@others
+<t tx="leo.20161118180529.143">@others
 </t>
-<t tx="leo.20161118175522.144">(uncached) yen.20161016012253.2
+<t tx="leo.20161118180529.144">(uncached) yen.20161016012253.2
 Diff...
 + # 2D 繪圖
 + 
@@ -1406,14 +1406,14 @@ Diff...
 + * 請畫出流程圖
 + * 有沒有參考資料?
 </t>
-<t tx="leo.20161118175522.145"># 2D 繪圖
+<t tx="leo.20161118180529.145"># 2D 繪圖
 
 * 單機執行還是瀏覽器執行?
 * 請畫出流程圖
 * 有沒有參考資料?
 </t>
-<t tx="leo.20161118175522.146"></t>
-<t tx="leo.20161118175522.147">(uncached) yen.20161016012402.1
+<t tx="leo.20161118180529.146"></t>
+<t tx="leo.20161118180529.147">(uncached) yen.20161016012402.1
 Diff...
 + &lt;section data-markdown&gt;
 +     &lt;script type="text/template"&gt;
@@ -1424,7 +1424,7 @@ Diff...
 + 
 + 						
 </t>
-<t tx="leo.20161118175522.148">&lt;section data-markdown&gt;
+<t tx="leo.20161118180529.148">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -1433,9 +1433,9 @@ Diff...
 
 						
 </t>
-<t tx="leo.20161118175522.149">@others
+<t tx="leo.20161118180529.149">@others
 </t>
-<t tx="leo.20161118175522.15">(uncached) amd.20161004095719.1
+<t tx="leo.20161118180529.15">(uncached) amd.20161004095719.1
 Diff...
 + &lt;section data-markdown&gt;
 +     &lt;script type="text/template"&gt;
@@ -1450,7 +1450,7 @@ Diff...
 - 				&lt;section&gt;
 - 					&lt;h2&gt;github_intro&lt;/h2&gt;
 </t>
-<t tx="leo.20161118175522.150">(uncached) yen.20161016012402.2
+<t tx="leo.20161118180529.150">(uncached) yen.20161016012402.2
 Diff...
 + # 網際遊戲
 + 
@@ -1458,24 +1458,24 @@ Diff...
 + * 請畫出流程圖
 + * 有沒有參考資料?
 </t>
-<t tx="leo.20161118175522.151"># 網際遊戲
+<t tx="leo.20161118180529.151"># 網際遊戲
 
 * 單機執行還是瀏覽器執行?
 * 請畫出流程圖
 * 有沒有參考資料?
 </t>
-<t tx="leo.20161118175522.152"></t>
-<t tx="leo.20161118175522.153">(uncached) yen.20161011143808.1
+<t tx="leo.20161118180529.152"></t>
+<t tx="leo.20161118180529.153">(uncached) yen.20161011143808.1
 Diff...
 + &lt;section&gt;
   @others
 + &lt;/section&gt;</t>
-<t tx="leo.20161118175522.154">&lt;section&gt;
+<t tx="leo.20161118180529.154">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
-<t tx="leo.20161118175522.155">@others
+<t tx="leo.20161118180529.155">@others
 </t>
-<t tx="leo.20161118175522.156">(uncached) yen.20161011143808.2
+<t tx="leo.20161118180529.156">(uncached) yen.20161011143808.2
 Diff...
 + &lt;section data-markdown&gt;
 +     &lt;script type="text/template"&gt;
@@ -1486,7 +1486,7 @@ Diff...
 + 
 + 						
 </t>
-<t tx="leo.20161118175522.157">&lt;section data-markdown&gt;
+<t tx="leo.20161118180529.157">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -1495,9 +1495,9 @@ Diff...
 
 						
 </t>
-<t tx="leo.20161118175522.158">@others
+<t tx="leo.20161118180529.158">@others
 </t>
-<t tx="leo.20161118175522.159">(uncached) yen.20161011143808.3
+<t tx="leo.20161118180529.159">(uncached) yen.20161011143808.3
 Diff...
 + # Github 倉儲網頁
 + 
@@ -1505,7 +1505,7 @@ Diff...
 + ####建立個人課程作業網頁 (納入投影片與網誌架構)
 + ####組長建立分組的評量網頁 (納入投影片與網誌架構)
 </t>
-<t tx="leo.20161118175522.16">&lt;section data-markdown&gt;
+<t tx="leo.20161118180529.16">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -1514,14 +1514,14 @@ Diff...
 
 						
 </t>
-<t tx="leo.20161118175522.160"># Github 倉儲網頁
+<t tx="leo.20161118180529.160"># Github 倉儲網頁
 
 ####建立個人 Github 網頁 (帳號.github.io)
 ####建立個人課程作業網頁 (納入投影片與網誌架構)
 ####組長建立分組的評量網頁 (納入投影片與網誌架構)
 </t>
-<t tx="leo.20161118175522.161"></t>
-<t tx="leo.20161118175522.162">(uncached) yen.20161011144113.1
+<t tx="leo.20161118180529.161"></t>
+<t tx="leo.20161118180529.162">(uncached) yen.20161011144113.1
 Diff...
 + &lt;section data-markdown&gt;
 +     &lt;script type="text/template"&gt;
@@ -1532,7 +1532,7 @@ Diff...
 + 
 + 						
 </t>
-<t tx="leo.20161118175522.163">&lt;section data-markdown&gt;
+<t tx="leo.20161118180529.163">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -1541,9 +1541,9 @@ Diff...
 
 						
 </t>
-<t tx="leo.20161118175522.164">@others
+<t tx="leo.20161118180529.164">@others
 </t>
-<t tx="leo.20161118175522.165">(uncached) yen.20161011144113.2
+<t tx="leo.20161118180529.165">(uncached) yen.20161011144113.2
 Diff...
 + # 學員作業網頁定版
 + 
@@ -1551,14 +1551,14 @@ Diff...
 + ###分組評量網頁必須在指定時間前定版
 + ###Github 倉儲 gh-pages分支與子模組應用
 </t>
-<t tx="leo.20161118175522.166"># 學員作業網頁定版
+<t tx="leo.20161118180529.166"># 學員作業網頁定版
 
 ###個人作業網頁內容可以隨時改版
 ###分組評量網頁必須在指定時間前定版
 ###Github 倉儲 gh-pages分支與子模組應用
 </t>
-<t tx="leo.20161118175522.167"></t>
-<t tx="leo.20161118175522.168">(uncached) yen.20161011144715.1
+<t tx="leo.20161118180529.167"></t>
+<t tx="leo.20161118180529.168">(uncached) yen.20161011144715.1
 Diff...
 + &lt;section data-markdown&gt;
 +     &lt;script type="text/template"&gt;
@@ -1569,7 +1569,7 @@ Diff...
 + 
 + 						
 </t>
-<t tx="leo.20161118175522.169">&lt;section data-markdown&gt;
+<t tx="leo.20161118180529.169">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -1578,15 +1578,15 @@ Diff...
 
 						
 </t>
-<t tx="leo.20161118175522.17">
+<t tx="leo.20161118180529.17">
 			&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
 @others
 				&lt;section&gt;
 					&lt;h2&gt;github_intro&lt;/h2&gt;
 </t>
-<t tx="leo.20161118175522.170">@others
+<t tx="leo.20161118180529.170">@others
 </t>
-<t tx="leo.20161118175522.171">(uncached) yen.20161011144715.2
+<t tx="leo.20161118180529.171">(uncached) yen.20161011144715.2
 Diff...
 + # Github 倉儲拉回請求
 + 
@@ -1595,25 +1595,25 @@ Diff...
 + ####各組員實際操作影片錄製
 + ####操作影片加字幕以及影片檔相加
 </t>
-<t tx="leo.20161118175522.172"># Github 倉儲拉回請求
+<t tx="leo.20161118180529.172"># Github 倉儲拉回請求
 
 ####分組倉儲 Collaborators 設定
 ####分組倉儲版本 Pull Requests 練習
 ####各組員實際操作影片錄製
 ####操作影片加字幕以及影片檔相加
 </t>
-<t tx="leo.20161118175522.173"></t>
-<t tx="leo.20161118175522.174">(uncached) yen.20161011145156.1
+<t tx="leo.20161118180529.173"></t>
+<t tx="leo.20161118180529.174">(uncached) yen.20161011145156.1
 Diff...
 + &lt;section&gt;
   @others
 + &lt;/section&gt;</t>
-<t tx="leo.20161118175522.175">&lt;section&gt;
+<t tx="leo.20161118180529.175">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
-<t tx="leo.20161118175522.176">@others
+<t tx="leo.20161118180529.176">@others
 </t>
-<t tx="leo.20161118175522.177">(uncached) yen.20161011145156.2
+<t tx="leo.20161118180529.177">(uncached) yen.20161011145156.2
 Diff...
 + &lt;section data-markdown&gt;
 +     &lt;script type="text/template"&gt;
@@ -1624,7 +1624,7 @@ Diff...
 + 
 + 						
 </t>
-<t tx="leo.20161118175522.178">&lt;section data-markdown&gt;
+<t tx="leo.20161118180529.178">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -1633,9 +1633,9 @@ Diff...
 
 						
 </t>
-<t tx="leo.20161118175522.179">@others
+<t tx="leo.20161118180529.179">@others
 </t>
-<t tx="leo.20161118175522.18">(uncached) amd.20161004095719.2
+<t tx="leo.20161118180529.18">(uncached) amd.20161004095719.2
 Diff...
 + # 2016Fall 計算機程式課程
 - 			&lt;div class="slides"&gt;
@@ -1657,7 +1657,7 @@ Diff...
 + [blog](blog/index.html)
 + 
 </t>
-<t tx="leo.20161118175522.180">(uncached) yen.20161011145156.3
+<t tx="leo.20161118180529.180">(uncached) yen.20161011145156.3
 Diff...
 + # Python3 語法
 + 
@@ -1665,14 +1665,14 @@ Diff...
 + ####input()
 + ####變數名稱與關鍵字
 </t>
-<t tx="leo.20161118175522.181"># Python3 語法
+<t tx="leo.20161118180529.181"># Python3 語法
 
 ####print()
 ####input()
 ####變數名稱與關鍵字
 </t>
-<t tx="leo.20161118175522.182"></t>
-<t tx="leo.20161118175522.183">(uncached) yen.20161011145156.4
+<t tx="leo.20161118180529.182"></t>
+<t tx="leo.20161118180529.183">(uncached) yen.20161011145156.4
 Diff...
 + &lt;section data-markdown&gt;
 +     &lt;script type="text/template"&gt;
@@ -1683,7 +1683,7 @@ Diff...
 + 
 + 						
 </t>
-<t tx="leo.20161118175522.184">&lt;section data-markdown&gt;
+<t tx="leo.20161118180529.184">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -1692,9 +1692,9 @@ Diff...
 
 						
 </t>
-<t tx="leo.20161118175522.185">@others
+<t tx="leo.20161118180529.185">@others
 </t>
-<t tx="leo.20161118175522.186">(uncached) yen.20161011145156.5
+<t tx="leo.20161118180529.186">(uncached) yen.20161011145156.5
 Diff...
 + # for 迴圈用法
 + 
@@ -1703,15 +1703,15 @@ Diff...
 + ###數列與 iterator
 + 
 </t>
-<t tx="leo.20161118175522.187"># for 迴圈用法
+<t tx="leo.20161118180529.187"># for 迴圈用法
 
 ###Python 程式縮排
 ###for i in range(5)：
 ###數列與 iterator
 
 </t>
-<t tx="leo.20161118175522.188"></t>
-<t tx="leo.20161118175522.189">(uncached) yen.20161011145156.6
+<t tx="leo.20161118180529.188"></t>
+<t tx="leo.20161118180529.189">(uncached) yen.20161011145156.6
 Diff...
 + &lt;section data-markdown&gt;
 +     &lt;script type="text/template"&gt;
@@ -1722,7 +1722,7 @@ Diff...
 + 
 + 						
 </t>
-<t tx="leo.20161118175522.19"># 2016Fall 計算機程式課程
+<t tx="leo.20161118180529.19"># 2016Fall 計算機程式課程
 
 ### 虎科大機械設計工程系
 
@@ -1733,7 +1733,7 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 [blog](blog/index.html)
 
 </t>
-<t tx="leo.20161118175522.190">&lt;section data-markdown&gt;
+<t tx="leo.20161118180529.190">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -1742,9 +1742,9 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 
 						
 </t>
-<t tx="leo.20161118175522.191">@others
+<t tx="leo.20161118180529.191">@others
 </t>
-<t tx="leo.20161118175522.192">(uncached) yen.20161011145156.7
+<t tx="leo.20161118180529.192">(uncached) yen.20161011145156.7
 Diff...
 + # 函式用法
 + 
@@ -1752,14 +1752,14 @@ Diff...
 + ####函式呼叫與傳值
 + ####函式載入順序
 </t>
-<t tx="leo.20161118175522.193"># 函式用法
+<t tx="leo.20161118180529.193"># 函式用法
 
 ####函式定義
 ####函式呼叫與傳值
 ####函式載入順序
 </t>
-<t tx="leo.20161118175522.194"></t>
-<t tx="leo.20161118175522.195">(uncached) yen.20161011145755.1
+<t tx="leo.20161118180529.194"></t>
+<t tx="leo.20161118180529.195">(uncached) yen.20161011145755.1
 Diff...
 + &lt;section data-markdown&gt;
 +     &lt;script type="text/template"&gt;
@@ -1770,7 +1770,7 @@ Diff...
 + 
 + 						
 </t>
-<t tx="leo.20161118175522.196">&lt;section data-markdown&gt;
+<t tx="leo.20161118180529.196">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -1779,9 +1779,9 @@ Diff...
 
 						
 </t>
-<t tx="leo.20161118175522.197">@others
+<t tx="leo.20161118180529.197">@others
 </t>
-<t tx="leo.20161118175522.198">(uncached) yen.20161011145755.2
+<t tx="leo.20161118180529.198">(uncached) yen.20161011145755.2
 Diff...
 + # 數列用法
 + 
@@ -1789,14 +1789,14 @@ Diff...
 + ####數列與字串
 + ####數列排序
 </t>
-<t tx="leo.20161118175522.199"># 數列用法
+<t tx="leo.20161118180529.199"># 數列用法
 
 ####數列與索引
 ####數列與字串
 ####數列排序
 </t>
-<t tx="leo.20161118175522.2"></t>
-<t tx="leo.20161118175522.20">			&lt;div class="slides"&gt;
+<t tx="leo.20161118180529.2"></t>
+<t tx="leo.20161118180529.20">			&lt;div class="slides"&gt;
 				&lt;section&gt;
 					&lt;h1&gt;s40523127張皓然計算機程式課程&lt;/h1&gt;
 					&lt;h3&gt;The HTML Presentation Framework&lt;/h3&gt;
@@ -1807,8 +1807,8 @@ Diff...
 				&lt;/section&gt;
 
 </t>
-<t tx="leo.20161118175522.200"></t>
-<t tx="leo.20161118175522.201">(uncached) yen.20161011145952.1
+<t tx="leo.20161118180529.200"></t>
+<t tx="leo.20161118180529.201">(uncached) yen.20161011145952.1
 Diff...
 + &lt;section data-markdown&gt;
 +     &lt;script type="text/template"&gt;
@@ -1819,7 +1819,7 @@ Diff...
 + 
 + 						
 </t>
-<t tx="leo.20161118175522.202">&lt;section data-markdown&gt;
+<t tx="leo.20161118180529.202">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -1828,9 +1828,9 @@ Diff...
 
 						
 </t>
-<t tx="leo.20161118175522.203">@others
+<t tx="leo.20161118180529.203">@others
 </t>
-<t tx="leo.20161118175522.204">(uncached) yen.20161011145952.2
+<t tx="leo.20161118180529.204">(uncached) yen.20161011145952.2
 Diff...
 + # 分組程式內容
 + 
@@ -1838,14 +1838,14 @@ Diff...
 + ####設法分割資料, 納入數列
 + ####根據設計邏輯進行資料處理
 </t>
-<t tx="leo.20161118175522.205"># 分組程式內容
+<t tx="leo.20161118180529.205"># 分組程式內容
 
 ####讀取原始資料內容
 ####設法分割資料, 納入數列
 ####根據設計邏輯進行資料處理
 </t>
-<t tx="leo.20161118175522.206"></t>
-<t tx="leo.20161118175522.207">(uncached) yen.20161011150316.1
+<t tx="leo.20161118180529.206"></t>
+<t tx="leo.20161118180529.207">(uncached) yen.20161011150316.1
 Diff...
 + &lt;section data-markdown&gt;
 +     &lt;script type="text/template"&gt;
@@ -1856,7 +1856,7 @@ Diff...
 + 
 + 						
 </t>
-<t tx="leo.20161118175522.208">&lt;section data-markdown&gt;
+<t tx="leo.20161118180529.208">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -1865,9 +1865,9 @@ Diff...
 
 						
 </t>
-<t tx="leo.20161118175522.209">@others
+<t tx="leo.20161118180529.209">@others
 </t>
-<t tx="leo.20161118175522.21">(uncached) yen.20161016023122.1
+<t tx="leo.20161118180529.21">(uncached) yen.20161016023122.1
 Diff...
 + &lt;section data-markdown&gt;
 +     &lt;script type="text/template"&gt;
@@ -1878,7 +1878,7 @@ Diff...
 + 
 + 						
 </t>
-<t tx="leo.20161118175522.210">(uncached) yen.20161011150316.2
+<t tx="leo.20161118180529.210">(uncached) yen.20161011150316.2
 Diff...
 + # 遊戲邏輯
 + 
@@ -1888,7 +1888,7 @@ Diff...
 + ####能在一定次數中猜對者獲勝
 + ####在單機或網際執行程式?
 </t>
-<t tx="leo.20161118175522.211"># 遊戲邏輯
+<t tx="leo.20161118180529.211"># 遊戲邏輯
 
 ####1-100 中隨機取一個數字作為答案
 ####設法讓使用者猜這個數字 (接受輸入)
@@ -1896,8 +1896,8 @@ Diff...
 ####能在一定次數中猜對者獲勝
 ####在單機或網際執行程式?
 </t>
-<t tx="leo.20161118175522.212"></t>
-<t tx="leo.20161118175522.213">(uncached) yen.20161011150126.1
+<t tx="leo.20161118180529.212"></t>
+<t tx="leo.20161118180529.213">(uncached) yen.20161011150126.1
 Diff...
 + &lt;section data-markdown&gt;
 +     &lt;script type="text/template"&gt;
@@ -1908,7 +1908,7 @@ Diff...
 + 
 + 						
 </t>
-<t tx="leo.20161118175522.214">&lt;section data-markdown&gt;
+<t tx="leo.20161118180529.214">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -1917,9 +1917,9 @@ Diff...
 
 						
 </t>
-<t tx="leo.20161118175522.215">@others
+<t tx="leo.20161118180529.215">@others
 </t>
-<t tx="leo.20161118175522.216">(uncached) yen.20161011150126.2
+<t tx="leo.20161118180529.216">(uncached) yen.20161011150126.2
 Diff...
 + # Python 網際繪圖
 + 
@@ -1927,14 +1927,14 @@ Diff...
 + ####Brython 執行設定
 + ####基本繪圖練習 (五芒星、正齒輪與各國國旗)
 </t>
-<t tx="leo.20161118175522.217"># Python 網際繪圖
+<t tx="leo.20161118180529.217"># Python 網際繪圖
 
 ####Brython 簡介
 ####Brython 執行設定
 ####基本繪圖練習 (五芒星、正齒輪與各國國旗)
 </t>
-<t tx="leo.20161118175522.218"></t>
-<t tx="leo.20161118175522.219">(uncached) yen.20161011150901.1
+<t tx="leo.20161118180529.218"></t>
+<t tx="leo.20161118180529.219">(uncached) yen.20161011150901.1
 Diff...
 + &lt;section data-markdown&gt;
 +     &lt;script type="text/template"&gt;
@@ -1945,7 +1945,7 @@ Diff...
 + 
 + 						
 </t>
-<t tx="leo.20161118175522.22">&lt;section data-markdown&gt;
+<t tx="leo.20161118180529.22">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -1954,7 +1954,7 @@ Diff...
 
 						
 </t>
-<t tx="leo.20161118175522.220">&lt;section data-markdown&gt;
+<t tx="leo.20161118180529.220">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -1963,9 +1963,9 @@ Diff...
 
 						
 </t>
-<t tx="leo.20161118175522.221">@others
+<t tx="leo.20161118180529.221">@others
 </t>
-<t tx="leo.20161118175522.222">(uncached) yen.20161011150901.2
+<t tx="leo.20161118180529.222">(uncached) yen.20161011150901.2
 Diff...
 + # 網際動畫範例
 + 
@@ -1973,26 +1973,26 @@ Diff...
 + ####猜顏色遊戲
 + ####網際對戰遊戲
 </t>
-<t tx="leo.20161118175522.223"># 網際動畫範例
+<t tx="leo.20161118180529.223"># 網際動畫範例
 
 ####機構模擬
 ####猜顏色遊戲
 ####網際對戰遊戲
 </t>
-<t tx="leo.20161118175522.224"></t>
-<t tx="leo.20161118175522.225">(uncached) yen.20161016012809.1
+<t tx="leo.20161118180529.224"></t>
+<t tx="leo.20161118180529.225">(uncached) yen.20161016012809.1
 Diff...
 + &lt;section&gt;
   @others
 - 				&lt;iframe src="https://player.vimeo.com/video/183954581" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 + &lt;/section&gt;</t>
-<t tx="leo.20161118175522.226">&lt;section&gt;
+<t tx="leo.20161118180529.226">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
-<t tx="leo.20161118175522.227">@others
+<t tx="leo.20161118180529.227">@others
 				&lt;iframe src="https://player.vimeo.com/video/183954581" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
-<t tx="leo.20161118175522.228">(uncached) yen.20161016012809.2
+<t tx="leo.20161118180529.228">(uncached) yen.20161016012809.2
 Diff...
 + &lt;section data-markdown&gt;
 +     &lt;script type="text/template"&gt;
@@ -2005,7 +2005,7 @@ Diff...
 + 
 + 						
 </t>
-<t tx="leo.20161118175522.229">&lt;section data-markdown&gt;
+<t tx="leo.20161118180529.229">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -2016,11 +2016,11 @@ Diff...
 
 						
 </t>
-<t tx="leo.20161118175522.23">@others
+<t tx="leo.20161118180529.23">@others
 </t>
-<t tx="leo.20161118175522.230">@others
+<t tx="leo.20161118180529.230">@others
 </t>
-<t tx="leo.20161118175522.231">(uncached) yen.20161016012809.3
+<t tx="leo.20161118180529.231">(uncached) yen.20161016012809.3
 Diff...
 + # 數學符號與方程式
 + 
@@ -2029,15 +2029,15 @@ Diff...
 + 
 + $$I = \int \rho R^{2} dV$$
 </t>
-<t tx="leo.20161118175522.232"># 數學符號與方程式
+<t tx="leo.20161118180529.232"># 數學符號與方程式
 
 Inline math equations go in like so: $\omega = d\phi / dt$. Display
 math should get its own line and be put in in double-dollarsigns:
 
 $$I = \int \rho R^{2} dV$$
 </t>
-<t tx="leo.20161118175522.233"></t>
-<t tx="leo.20161118175522.234">(uncached) yen.20161016012809.4
+<t tx="leo.20161118180529.233"></t>
+<t tx="leo.20161118180529.234">(uncached) yen.20161016012809.4
 Diff...
 + &lt;section data-markdown&gt;
 +     &lt;script type="text/template"&gt;
@@ -2050,7 +2050,7 @@ Diff...
 + 
 + 						
 </t>
-<t tx="leo.20161118175522.235">&lt;section data-markdown&gt;
+<t tx="leo.20161118180529.235">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -2061,9 +2061,9 @@ Diff...
 
 						
 </t>
-<t tx="leo.20161118175522.236">@others
+<t tx="leo.20161118180529.236">@others
 </t>
-<t tx="leo.20161118175522.237">(uncached) yen.20161016012809.5
+<t tx="leo.20161118180529.237">(uncached) yen.20161016012809.5
 Diff...
 + ## 利用 Markdown 寫投影片
 + 以下利用 Markdown 格式展示 Python 程式碼:
@@ -2093,7 +2093,7 @@ Diff...
 + make.start()
 + ```
 </t>
-<t tx="leo.20161118175522.238">## 利用 Markdown 寫投影片
+<t tx="leo.20161118180529.238">## 利用 Markdown 寫投影片
 以下利用 Markdown 格式展示 Python 程式碼:
 ```
 @language python
@@ -2121,9 +2121,9 @@ make = threading.Thread(target=domake)
 make.start()
 ```
 </t>
-<t tx="leo.20161118175522.239">@language python
+<t tx="leo.20161118180529.239">@language python
 </t>
-<t tx="leo.20161118175522.24">(uncached) yen.20161016023122.2
+<t tx="leo.20161118180529.24">(uncached) yen.20161016023122.2
 Diff...
 + # 投影片快捷鍵
 + 
@@ -2135,7 +2135,7 @@ Diff...
 + * 按 Esc 可以退出全螢幕或全域檢視 (Escape)
 + 
 </t>
-<t tx="leo.20161118175522.240">(uncached) yen.20161016012809.6
+<t tx="leo.20161118180529.240">(uncached) yen.20161016012809.6
 Diff...
 + &lt;section data-markdown&gt;
 +     &lt;script type="text/template"&gt;
@@ -2153,7 +2153,7 @@ Diff...
 -                                &lt;section&gt;
 - 					&lt;h2&gt;fork_pull_requests&lt;/h2&gt;
 </t>
-<t tx="leo.20161118175522.241">&lt;section data-markdown&gt;
+<t tx="leo.20161118180529.241">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -2162,14 +2162,14 @@ Diff...
 
 						
 </t>
-<t tx="leo.20161118175522.242">@others
+<t tx="leo.20161118180529.242">@others
 &lt;p&gt;&lt;a href="https://vimeo.com/183950627"&gt;2016-09-23_cpb_github_intro&lt;/a&gt; from &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 				&lt;/section&gt;
 				
                                &lt;section&gt;
 					&lt;h2&gt;fork_pull_requests&lt;/h2&gt;
 </t>
-<t tx="leo.20161118175522.243">(uncached) yen.20161016012809.7
+<t tx="leo.20161118180529.243">(uncached) yen.20161016012809.7
 Diff...
 + ## 使用 iframe 導入影片
 + 
@@ -2177,15 +2177,15 @@ Diff...
 + 
   &lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
-<t tx="leo.20161118175522.244">## 使用 iframe 導入影片
+<t tx="leo.20161118180529.244">## 使用 iframe 導入影片
 
 ### 導入影片 template
 
 &lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
-<t tx="leo.20161118175522.245">&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+<t tx="leo.20161118180529.245">&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
-<t tx="leo.20161118175522.25"># 投影片快捷鍵
+<t tx="leo.20161118180529.25"># 投影片快捷鍵
 
 * 利用箭頭上下前後換頁
 * 按 f 鍵進入全螢幕模式 (full screen)
@@ -2195,20 +2195,20 @@ Diff...
 * 按 Esc 可以退出全螢幕或全域檢視 (Escape)
 
 </t>
-<t tx="leo.20161118175522.26"></t>
-<t tx="leo.20161118175522.27">(uncached) amd.20161004104820.1
+<t tx="leo.20161118180529.26"></t>
+<t tx="leo.20161118180529.27">(uncached) amd.20161004104820.1
 Diff...
 + &lt;section&gt;
   @others
 + &lt;/section&gt;
 </t>
-<t tx="leo.20161118175522.28">&lt;section&gt;
+<t tx="leo.20161118180529.28">&lt;section&gt;
 @others
 &lt;/section&gt;
 </t>
-<t tx="leo.20161118175522.29">@others
+<t tx="leo.20161118180529.29">@others
 </t>
-<t tx="leo.20161118175522.3">(uncached) amd.20161004083800.2
+<t tx="leo.20161118180529.3">(uncached) amd.20161004083800.2
 Diff...
 + &lt;head&gt;
 +     &lt;meta charset="utf-8"&gt;
@@ -2274,7 +2274,7 @@ Diff...
 - 		&lt;![endif]--&gt;
 - 	&lt;/head&gt;
 </t>
-<t tx="leo.20161118175522.30">(uncached) amd.20161004104641.1
+<t tx="leo.20161118180529.30">(uncached) amd.20161004104641.1
 Diff...
 + &lt;section data-markdown&gt;
 +     &lt;script type="text/template"&gt;
@@ -2285,7 +2285,7 @@ Diff...
 + 
 + 						
 </t>
-<t tx="leo.20161118175522.31">&lt;section data-markdown&gt;
+<t tx="leo.20161118180529.31">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -2294,9 +2294,9 @@ Diff...
 
 						
 </t>
-<t tx="leo.20161118175522.32">@others
+<t tx="leo.20161118180529.32">@others
 </t>
-<t tx="leo.20161118175522.33">(uncached) amd.20161004104641.2
+<t tx="leo.20161118180529.33">(uncached) amd.20161004104641.2
 Diff...
 + # 計算機程式在教什麼?
 + 
@@ -2306,7 +2306,7 @@ Diff...
 + ## 協同力
 + 
 </t>
-<t tx="leo.20161118175522.34"># 計算機程式在教什麼?
+<t tx="leo.20161118180529.34"># 計算機程式在教什麼?
 
 ## 創造力
 ## 表達力
@@ -2314,8 +2314,8 @@ Diff...
 ## 協同力
 
 </t>
-<t tx="leo.20161118175522.35"></t>
-<t tx="leo.20161118175522.36">(uncached) yen.20161011155543.1
+<t tx="leo.20161118180529.35"></t>
+<t tx="leo.20161118180529.36">(uncached) yen.20161011155543.1
 Diff...
 + &lt;section data-markdown&gt;
 +     &lt;script type="text/template"&gt;
@@ -2326,7 +2326,7 @@ Diff...
 + 
 + 						
 </t>
-<t tx="leo.20161118175522.37">&lt;section data-markdown&gt;
+<t tx="leo.20161118180529.37">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -2335,9 +2335,9 @@ Diff...
 
 						
 </t>
-<t tx="leo.20161118175522.38">@others
+<t tx="leo.20161118180529.38">@others
 </t>
-<t tx="leo.20161118175522.39">(uncached) yen.20161011155543.2
+<t tx="leo.20161118180529.39">(uncached) yen.20161011155543.2
 Diff...
 + # 計算機程式在教什麼?
 + 
@@ -2347,7 +2347,7 @@ Diff...
 + ## &lt;span style="color:#FFFF00"&gt;協同力&lt;/span&gt;&lt;small&gt;=電腦+網路+工具+專案&lt;/small&gt;
 + 
 </t>
-<t tx="leo.20161118175522.4">&lt;head&gt;
+<t tx="leo.20161118180529.4">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;    
 2016 Fall 計算機程式課程
@@ -2381,7 +2381,7 @@ Diff...
 &lt;/head&gt;
 
 </t>
-<t tx="leo.20161118175522.40"># 計算機程式在教什麼?
+<t tx="leo.20161118180529.40"># 計算機程式在教什麼?
 
 ## &lt;span style="color:#FFFF00"&gt;創造力&lt;/span&gt;&lt;small&gt;=自學力+程式力+想像力&lt;/small&gt;
 ## &lt;span style="color:#FFFF00"&gt;表達力&lt;/span&gt;&lt;small&gt;=口語+文字+2D+3D+理論+實體&lt;/small&gt;
@@ -2389,8 +2389,8 @@ Diff...
 ## &lt;span style="color:#FFFF00"&gt;協同力&lt;/span&gt;&lt;small&gt;=電腦+網路+工具+專案&lt;/small&gt;
 
 </t>
-<t tx="leo.20161118175522.41"></t>
-<t tx="leo.20161118175522.42">(uncached) yen.20161011115740.1
+<t tx="leo.20161118180529.41"></t>
+<t tx="leo.20161118180529.42">(uncached) yen.20161011115740.1
 Diff...
 + &lt;section data-markdown&gt;
 +     &lt;script type="text/template"&gt;
@@ -2401,7 +2401,7 @@ Diff...
 + 
 + 						
 </t>
-<t tx="leo.20161118175522.43">&lt;section data-markdown&gt;
+<t tx="leo.20161118180529.43">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -2410,9 +2410,9 @@ Diff...
 
 						
 </t>
-<t tx="leo.20161118175522.44">@others
+<t tx="leo.20161118180529.44">@others
 </t>
-<t tx="leo.20161118175522.45">(uncached) yen.20161011115740.2
+<t tx="leo.20161118180529.45">(uncached) yen.20161011115740.2
 Diff...
 + # 計算機程式系列課程
 + 
@@ -2423,7 +2423,7 @@ Diff...
 + 也在研習&lt;span style="color:#FFFF00"&gt;創造力&lt;/span&gt;、&lt;span style="color:#FFFF00"&gt;表達力&lt;/span&gt;與&lt;span style="color:#FFFF00"&gt;協同力&lt;/span&gt;
 + 
 </t>
-<t tx="leo.20161118175522.46"># 計算機程式系列課程
+<t tx="leo.20161118180529.46"># 計算機程式系列課程
 
 ## 網際內容管理
 ## 電腦輔助設計實習
@@ -2432,8 +2432,8 @@ Diff...
 也在研習&lt;span style="color:#FFFF00"&gt;創造力&lt;/span&gt;、&lt;span style="color:#FFFF00"&gt;表達力&lt;/span&gt;與&lt;span style="color:#FFFF00"&gt;協同力&lt;/span&gt;
 
 </t>
-<t tx="leo.20161118175522.47"></t>
-<t tx="leo.20161118175522.48">(uncached) amd.20161004105131.1
+<t tx="leo.20161118180529.47"></t>
+<t tx="leo.20161118180529.48">(uncached) amd.20161004105131.1
 Diff...
 + &lt;section data-markdown&gt;
 +     &lt;script type="text/template"&gt;
@@ -2444,7 +2444,7 @@ Diff...
 + 
 + 						
 </t>
-<t tx="leo.20161118175522.49">&lt;section data-markdown&gt;
+<t tx="leo.20161118180529.49">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -2453,7 +2453,7 @@ Diff...
 
 						
 </t>
-<t tx="leo.20161118175522.5">
+<t tx="leo.20161118180529.5">
 	&lt;head&gt;
 		&lt;meta charset="utf-8"&gt;
 
@@ -2487,9 +2487,9 @@ Diff...
 		&lt;![endif]--&gt;
 	&lt;/head&gt;
 </t>
-<t tx="leo.20161118175522.50">@others
+<t tx="leo.20161118180529.50">@others
 </t>
-<t tx="leo.20161118175522.51">(uncached) amd.20161004105131.2
+<t tx="leo.20161118180529.51">(uncached) amd.20161004105131.2
 Diff...
 + # 何謂創造力?
 + 
@@ -2499,7 +2499,7 @@ Diff...
 + ## 俱備&lt;small&gt;&lt;span style="color:#FF0080"&gt;豐富&lt;/span&gt;&lt;/small&gt;&lt;span style="color:#FFFF00"&gt;想像力&lt;/span&gt;
 + 
 </t>
-<t tx="leo.20161118175522.52"># 何謂創造力?
+<t tx="leo.20161118180529.52"># 何謂創造力?
 
 ## 能夠&lt;small&gt;&lt;span style="color:#FF0080"&gt;持續&lt;/span&gt;&lt;/small&gt;&lt;span style="color:#FFFF00"&gt;自學&lt;/span&gt;
 ## 會安排&lt;small&gt;&lt;span style="color:#FF0080"&gt;高效&lt;/span&gt;&lt;/small&gt;&lt;span style="color:#FFFF00"&gt;可執行&lt;/span&gt;流程
@@ -2507,8 +2507,8 @@ Diff...
 ## 俱備&lt;small&gt;&lt;span style="color:#FF0080"&gt;豐富&lt;/span&gt;&lt;/small&gt;&lt;span style="color:#FFFF00"&gt;想像力&lt;/span&gt;
 
 </t>
-<t tx="leo.20161118175522.53"></t>
-<t tx="leo.20161118175522.54">(uncached) yen.20161011114704.1
+<t tx="leo.20161118180529.53"></t>
+<t tx="leo.20161118180529.54">(uncached) yen.20161011114704.1
 Diff...
 + &lt;section data-markdown&gt;
 +     &lt;script type="text/template"&gt;
@@ -2519,7 +2519,7 @@ Diff...
 + 
 + 						
 </t>
-<t tx="leo.20161118175522.55">&lt;section data-markdown&gt;
+<t tx="leo.20161118180529.55">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -2528,9 +2528,9 @@ Diff...
 
 						
 </t>
-<t tx="leo.20161118175522.56">@others
+<t tx="leo.20161118180529.56">@others
 </t>
-<t tx="leo.20161118175522.57">(uncached) yen.20161011114704.2
+<t tx="leo.20161118180529.57">(uncached) yen.20161011114704.2
 Diff...
 + # 何謂創造力?
 + 
@@ -2540,7 +2540,7 @@ Diff...
 + ## 俱備&lt;small&gt;&lt;span style="color:#FF0080"&gt;豐富&lt;/span&gt;&lt;/small&gt;想像力-&gt;不受限, &lt;span style="color:#FFFF00"&gt;積極進行改造&lt;/span&gt;
 + 
 </t>
-<t tx="leo.20161118175522.58"># 何謂創造力?
+<t tx="leo.20161118180529.58"># 何謂創造力?
 
 ## 能夠&lt;small&gt;&lt;span style="color:#FF0080"&gt;持續&lt;/span&gt;&lt;/small&gt;自學-&gt;&lt;span style="color:#FFFF00"&gt;不一定都要別人教&lt;/span&gt;
 ## 會安排&lt;small&gt;&lt;span style="color:#FF0080"&gt;高效&lt;/span&gt;&lt;/small&gt;可執行流程-&gt;展現&lt;span style="color:#FFFF00"&gt;執行力&lt;/span&gt;
@@ -2548,8 +2548,8 @@ Diff...
 ## 俱備&lt;small&gt;&lt;span style="color:#FF0080"&gt;豐富&lt;/span&gt;&lt;/small&gt;想像力-&gt;不受限, &lt;span style="color:#FFFF00"&gt;積極進行改造&lt;/span&gt;
 
 </t>
-<t tx="leo.20161118175522.59"></t>
-<t tx="leo.20161118175522.6">(uncached) amd.20161004083800.5
+<t tx="leo.20161118180529.59"></t>
+<t tx="leo.20161118180529.6">(uncached) amd.20161004083800.5
 Diff...
 + &lt;body&gt;
 + @others
@@ -2946,7 +2946,7 @@ Diff...
 ? -
 + &lt;/body&gt;
 </t>
-<t tx="leo.20161118175522.60">(uncached) yen.20161011121637.1
+<t tx="leo.20161118180529.60">(uncached) yen.20161011121637.1
 Diff...
 + &lt;section data-markdown&gt;
 +     &lt;script type="text/template"&gt;
@@ -2957,7 +2957,7 @@ Diff...
 + 
 + 						
 </t>
-<t tx="leo.20161118175522.61">&lt;section data-markdown&gt;
+<t tx="leo.20161118180529.61">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -2966,9 +2966,9 @@ Diff...
 
 						
 </t>
-<t tx="leo.20161118175522.62">@others
+<t tx="leo.20161118180529.62">@others
 </t>
-<t tx="leo.20161118175522.63">(uncached) yen.20161011121637.2
+<t tx="leo.20161118180529.63">(uncached) yen.20161011121637.2
 Diff...
 + # 自學的訓練
 + 
@@ -2978,7 +2978,7 @@ Diff...
 + 
 + 
 </t>
-<t tx="leo.20161118175522.64"># 自學的訓練
+<t tx="leo.20161118180529.64"># 自學的訓練
 
 ## 學員必須自己有學習動機
 ## 能消化中英文資料
@@ -2986,8 +2986,8 @@ Diff...
 
 
 </t>
-<t tx="leo.20161118175522.65"></t>
-<t tx="leo.20161118175522.66">(uncached) amd.20161004105716.1
+<t tx="leo.20161118180529.65"></t>
+<t tx="leo.20161118180529.66">(uncached) amd.20161004105716.1
 Diff...
 + &lt;section data-markdown&gt;
 +     &lt;script type="text/template"&gt;
@@ -2998,7 +2998,7 @@ Diff...
 + 
 + 						
 </t>
-<t tx="leo.20161118175522.67">&lt;section data-markdown&gt;
+<t tx="leo.20161118180529.67">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -3007,9 +3007,9 @@ Diff...
 
 						
 </t>
-<t tx="leo.20161118175522.68">@others
+<t tx="leo.20161118180529.68">@others
 </t>
-<t tx="leo.20161118175522.69">(uncached) amd.20161004105716.2
+<t tx="leo.20161118180529.69">(uncached) amd.20161004105716.2
 Diff...
 + # 高效執行力
 + 
@@ -3020,7 +3020,7 @@ Diff...
 + 
 + 
 </t>
-<t tx="leo.20161118175522.7">&lt;body&gt;
+<t tx="leo.20161118180529.7">&lt;body&gt;
 @others
 &lt;script src="https://cad-lab.github.io/cadlab_data/reveal/lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="https://cad-lab.github.io/cadlab_data/reveal/js/reveal.js"&gt;&lt;/script&gt;
@@ -3048,7 +3048,7 @@ Diff...
 &lt;/script&gt;
 &lt;/body&gt;
 </t>
-<t tx="leo.20161118175522.70"># 高效執行力
+<t tx="leo.20161118180529.70"># 高效執行力
 
 ## 用對的方法
 ## 在對的時機
@@ -3057,20 +3057,20 @@ Diff...
 
 
 </t>
-<t tx="leo.20161118175522.71"></t>
-<t tx="leo.20161118175522.72">(uncached) yen.20161016004633.1
+<t tx="leo.20161118180529.71"></t>
+<t tx="leo.20161118180529.72">(uncached) yen.20161016004633.1
 Diff...
 + &lt;section&gt;
   @others
 + &lt;/section&gt;
 </t>
-<t tx="leo.20161118175522.73">&lt;section&gt;
+<t tx="leo.20161118180529.73">&lt;section&gt;
 @others
 &lt;/section&gt;
 </t>
-<t tx="leo.20161118175522.74">@others
+<t tx="leo.20161118180529.74">@others
 </t>
-<t tx="leo.20161118175522.75">(uncached) yen.20161016004633.4
+<t tx="leo.20161118180529.75">(uncached) yen.20161016004633.4
 Diff...
 + &lt;section data-markdown&gt;
 +     &lt;script type="text/template"&gt;
@@ -3081,7 +3081,7 @@ Diff...
 + 
 + 						
 </t>
-<t tx="leo.20161118175522.76">&lt;section data-markdown&gt;
+<t tx="leo.20161118180529.76">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -3090,9 +3090,9 @@ Diff...
 
 						
 </t>
-<t tx="leo.20161118175522.77">@others
+<t tx="leo.20161118180529.77">@others
 </t>
-<t tx="leo.20161118175522.78">(uncached) yen.20161016004633.5
+<t tx="leo.20161118180529.78">(uncached) yen.20161016004633.5
 Diff...
 + # 計算機程式課程規劃
 + 
@@ -3101,14 +3101,14 @@ Diff...
 + ## [課程網誌](http://chiamingyen.github.io/kmolab/blog/tag/2016fallcp.html)
 + 
 </t>
-<t tx="leo.20161118175522.79"># 計算機程式課程規劃
+<t tx="leo.20161118180529.79"># 計算機程式課程規劃
 
 ## [課程規劃](https://github.com/mdecourse/2016fallcp/blob/master/syllabus.py)
 ## [課程 Wiki](https://github.com/mdecourse/2016fallcp/wiki)
 ## [課程網誌](http://chiamingyen.github.io/kmolab/blog/tag/2016fallcp.html)
 
 </t>
-<t tx="leo.20161118175522.8">
+<t tx="leo.20161118180529.8">
 @others
 				&lt;section&gt;
 					&lt;section&gt;
@@ -3462,8 +3462,8 @@ Reveal.addEventListener( 'customevent', function() {
 
 	&lt;/body&gt;
 </t>
-<t tx="leo.20161118175522.80"></t>
-<t tx="leo.20161118175522.81">(uncached) yen.20161016010643.1
+<t tx="leo.20161118180529.80"></t>
+<t tx="leo.20161118180529.81">(uncached) yen.20161016010643.1
 Diff...
 + &lt;section data-markdown&gt;
 +     &lt;script type="text/template"&gt;
@@ -3474,7 +3474,7 @@ Diff...
 + 
 + 						
 </t>
-<t tx="leo.20161118175522.82">&lt;section data-markdown&gt;
+<t tx="leo.20161118180529.82">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -3483,9 +3483,9 @@ Diff...
 
 						
 </t>
-<t tx="leo.20161118175522.83">@others
+<t tx="leo.20161118180529.83">@others
 </t>
-<t tx="leo.20161118175522.84">(uncached) yen.20161016010643.2
+<t tx="leo.20161118180529.84">(uncached) yen.20161016010643.2
 Diff...
 + ## 下載 miniconda 可攜環境
 + 
@@ -3496,7 +3496,7 @@ Diff...
 + 
 + 
 </t>
-<t tx="leo.20161118175522.85">## 下載 miniconda 可攜環境
+<t tx="leo.20161118180529.85">## 下載 miniconda 可攜環境
 
   * 在電腦教室下載 [mini2016fall.7z](http://140.130.17.17/public/2016fall/mini2016fall_with_leo.7z)
   * 從外部下載 [mini2016fall.7z](https://140.130.17.101/download/?filepath=/home/yen/cmsimply/wsgi/local_data/downloads/mini2016fall_with_leo.7z)
@@ -3505,8 +3505,8 @@ Diff...
 
 
 </t>
-<t tx="leo.20161118175522.86"></t>
-<t tx="leo.20161118175522.87">(uncached) yen.20161016010719.1
+<t tx="leo.20161118180529.86"></t>
+<t tx="leo.20161118180529.87">(uncached) yen.20161016010719.1
 Diff...
 + &lt;section data-markdown&gt;
 +     &lt;script type="text/template"&gt;
@@ -3517,7 +3517,7 @@ Diff...
 + 
 + 						
 </t>
-<t tx="leo.20161118175522.88">&lt;section data-markdown&gt;
+<t tx="leo.20161118180529.88">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -3526,9 +3526,9 @@ Diff...
 
 						
 </t>
-<t tx="leo.20161118175522.89">@others
+<t tx="leo.20161118180529.89">@others
 </t>
-<t tx="leo.20161118175522.9">(uncached) amd.20161004083800.6
+<t tx="leo.20161118180529.9">(uncached) amd.20161004083800.6
 Diff...
 - 	&lt;body&gt;
 + &lt;div class="reveal"&gt;
@@ -3538,7 +3538,7 @@ Diff...
 + &lt;/div&gt;
 + 
 </t>
-<t tx="leo.20161118175522.90">(uncached) yen.20161016012922.1
+<t tx="leo.20161118180529.90">(uncached) yen.20161016012922.1
 Diff...
 + ## 學員自評項目
 + 
@@ -3546,24 +3546,24 @@ Diff...
 + * 利用 [ShareX](https://getsharex.com/) 錄製上課操作練習影片
 + * 將影片加上說明字幕後, 上傳至個人 [Vimeo](https://vimeo.com/) 與 [Youtube](https://www.youtube.com)
 + * 每週更新個人與分組的 Github Pages 投影片與網誌</t>
-<t tx="leo.20161118175522.91">## 學員自評項目
+<t tx="leo.20161118180529.91">## 學員自評項目
 
 * 上課筆記與心得寫在個人的 2016fallcp_hw 倉儲 Wiki 中
 * 利用 [ShareX](https://getsharex.com/) 錄製上課操作練習影片
 * 將影片加上說明字幕後, 上傳至個人 [Vimeo](https://vimeo.com/) 與 [Youtube](https://www.youtube.com)
 * 每週更新個人與分組的 Github Pages 投影片與網誌</t>
-<t tx="leo.20161118175522.92"></t>
-<t tx="leo.20161118175522.93">(uncached) yen.20161011122932.1
+<t tx="leo.20161118180529.92"></t>
+<t tx="leo.20161118180529.93">(uncached) yen.20161011122932.1
 Diff...
 + &lt;section&gt;
   @others
 + &lt;/section&gt;</t>
-<t tx="leo.20161118175522.94">&lt;section&gt;
+<t tx="leo.20161118180529.94">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
-<t tx="leo.20161118175522.95">@others
+<t tx="leo.20161118180529.95">@others
 </t>
-<t tx="leo.20161118175522.96">(uncached) yen.20161011122601.1
+<t tx="leo.20161118180529.96">(uncached) yen.20161011122601.1
 Diff...
 + &lt;section data-markdown&gt;
 +     &lt;script type="text/template"&gt;
@@ -3574,7 +3574,7 @@ Diff...
 + 
 + 						
 </t>
-<t tx="leo.20161118175522.97">&lt;section data-markdown&gt;
+<t tx="leo.20161118180529.97">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -3583,9 +3583,9 @@ Diff...
 
 						
 </t>
-<t tx="leo.20161118175522.98">@others
+<t tx="leo.20161118180529.98">@others
 </t>
-<t tx="leo.20161118175522.99">(uncached) yen.20161011122601.2
+<t tx="leo.20161118180529.99">(uncached) yen.20161011122601.2
 Diff...
 + # 自學 Python3
 + 
